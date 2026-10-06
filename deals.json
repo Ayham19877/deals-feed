@@ -1,6 +1,22 @@
 {
  "deals": [
   {
+   "id": "df-B0GZLGGRBS",
+   "store": "dealforager",
+   "title": "Cordless Leaf Blower,Handheld Electric Blower for Patio Cleaning",
+   "price": "33.08",
+   "old_price": "166.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/413eSzloR+L.jpg",
+   "link": "https://www.amazon.com/dp/B0GZLGGRBS?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/5, 11:51 PM",
+   "rating": 438264.0,
+   "savings": 80.0,
+   "price_diff": 133.91,
+   "ts": 1791262318
+  },
+  {
    "id": "w-980623158",
    "title": "Jeexi Heavy Duty Poultry Shears - Stainless Steel Kitchen Scissors for Cutting Chicken Bones, Poultry, Game, Meat - Chopping Vegetable - Spring Loaded",
    "price": "12.09",
@@ -14641,22 +14657,6 @@
    "ts": 1791208363
   },
   {
-   "id": "df-B0GZLGGRBS",
-   "store": "dealforager",
-   "title": "Cordless Leaf Blower,Handheld Electric Blower for Patio Cleaning",
-   "price": "33.08",
-   "old_price": "166.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/413eSzloR+L.jpg",
-   "link": "https://www.amazon.com/dp/B0GZLGGRBS?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/5, 8:51 AM",
-   "rating": 438264.0,
-   "savings": 80.0,
-   "price_diff": 133.91,
-   "ts": 1791208302
-  },
-  {
    "id": "df-B0DYNT93FV",
    "store": "dealforager",
    "title": "Edvivi Pendant Light with Nordic Style Cone Paper Shade, 1-Light 16.5 in. Dia Natural Brown Cardboard Chandelier, Adjustable Hanging Light Fixture for Dining Table, No Bulbs Included",
@@ -15281,5 +15281,5 @@
    "ts": 1791134368
   }
  ],
- "updated": "2026-10-06T04:51:28Z"
+ "updated": "2026-10-06T04:53:00Z"
 }
