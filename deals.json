@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B0CGQ1566H",
+   "store": "dealforager",
+   "title": "JETech Case for Samsung Galaxy S23 FE, Anti-Yellowing, Black",
+   "price": "4.58",
+   "old_price": "9.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41eXkjQ9o7L.jpg",
+   "link": "https://www.amazon.com/dp/B0CGQ1566H?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/7, 6:35 PM",
+   "rating": 323299.0,
+   "savings": 54.0,
+   "price_diff": 5.41,
+   "ts": 1791416103
+  },
+  {
+   "id": "df-B0F1FPT1M5",
+   "store": "dealforager",
+   "title": "LEMILLE Fight for All Women Patch, Size 3\" Sew On Patches, Womens Rights Embroidery Fabric Patches for Clothes Jeans Backpacks Hats, Feminist Embroidery Iron On Patches for Clothes, Girl Power Gifts",
+   "price": "4.42",
+   "old_price": "8.88",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41KheYMb5IL.jpg",
+   "link": "https://www.amazon.com/dp/B0F1FPT1M5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/7, 6:34 PM",
+   "rating": 243973.0,
+   "savings": 50.0,
+   "price_diff": 4.46,
+   "ts": 1791416081
+  },
+  {
    "id": "df-B0DQL923VD",
    "store": "dealforager",
    "title": "PuyaTeya for Samsung S22 Ultra Case with Magnetic Ring Stand, Green",
@@ -12641,38 +12673,6 @@
    "ts": 1791361924
   },
   {
-   "id": "df-B0CGQ1566H",
-   "store": "dealforager",
-   "title": "JETech Case for Samsung Galaxy S23 FE, Anti-Yellowing, Black",
-   "price": "4.58",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41eXkjQ9o7L.jpg",
-   "link": "https://www.amazon.com/dp/B0CGQ1566H?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/7, 3:28 AM",
-   "rating": 323299.0,
-   "savings": 54.0,
-   "price_diff": 5.41,
-   "ts": 1791361704
-  },
-  {
-   "id": "df-B0F1FPT1M5",
-   "store": "dealforager",
-   "title": "LEMILLE Fight for All Women Patch, Size 3\" Sew On Patches, Womens Rights Embroidery Fabric Patches for Clothes Jeans Backpacks Hats, Feminist Embroidery Iron On Patches for Clothes, Girl Power Gifts",
-   "price": "4.42",
-   "old_price": "8.88",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41KheYMb5IL.jpg",
-   "link": "https://www.amazon.com/dp/B0F1FPT1M5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/7, 3:28 AM",
-   "rating": 243973.0,
-   "savings": 50.0,
-   "price_diff": 4.46,
-   "ts": 1791361681
-  },
-  {
    "id": "df-B0F9LQBGJV",
    "store": "dealforager",
    "title": "Armacost Lighting 10\" White CCT Tunable Under Cabinet Lighting LED Strip Lights",
@@ -15249,5 +15249,5 @@
    "ts": 1791259711
   }
  ],
- "updated": "2026-10-07T23:34:23Z"
+ "updated": "2026-10-07T23:38:01Z"
 }
