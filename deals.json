@@ -1,6 +1,54 @@
 {
  "deals": [
   {
+   "id": "df-B0FVL6R13F",
+   "store": "dealforager",
+   "title": "LETIANPAI 500FT Permanent Outdoor Lights,RGB Eaves Lights with App Control Remote,DIY Scene Modes IP67 Waterproof Outdoors Under Eave Lighting,Outdoor Light for Garden Decor",
+   "price": "25.55",
+   "old_price": "259.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51EnbiCPtwL.jpg",
+   "link": "https://www.amazon.com/dp/B0FVL6R13F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/9, 2:06 AM",
+   "rating": 466375.0,
+   "savings": 90.0,
+   "price_diff": 234.44,
+   "ts": 1791529613
+  },
+  {
+   "id": "df-B0FDXD18FL",
+   "store": "dealforager",
+   "title": "Passenger Side Sliding Door Motor and Cable Repair Kit Compatible with Honda Odyssey 2005-2010 3.5L V6 Replace 72010-SHJ-A21",
+   "price": "97.26",
+   "old_price": "349.89",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41YioQAtxaL.jpg",
+   "link": "https://www.amazon.com/dp/B0FDXD18FL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/9, 2:05 AM",
+   "rating": 454745.0,
+   "savings": 72.0,
+   "price_diff": 252.63,
+   "ts": 1791529513
+  },
+  {
+   "id": "df-B0FG82CJKZ",
+   "store": "dealforager",
+   "title": "70 inch Outdoor Smart Ceiling Fan for Patios Without Light, Black High CFM",
+   "price": "88.77",
+   "old_price": "299.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31AFWBykLyL.jpg",
+   "link": "https://www.amazon.com/dp/B0FG82CJKZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/9, 2:04 AM",
+   "rating": 451601.0,
+   "savings": 70.0,
+   "price_diff": 210.23,
+   "ts": 1791529487
+  },
+  {
    "id": "df-B092CPQ9Q4",
    "store": "dealforager",
    "title": "Homcine Projector Ceiling/Wall Mount White, Low Profile Universal Projector Holder/Bracket/Hanger Kit with Extendable Arm, Adjustable Height Pole Drop Ceiling Quick Release for Epson Optoma Benq",
@@ -12289,54 +12337,6 @@
    "ts": 1791475171
   },
   {
-   "id": "df-B0FVL6R13F",
-   "store": "dealforager",
-   "title": "LETIANPAI 500FT Permanent Outdoor Lights,RGB Eaves Lights with App Control Remote,DIY Scene Modes IP67 Waterproof Outdoors Under Eave Lighting,Outdoor Light for Garden Decor",
-   "price": "25.55",
-   "old_price": "259.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51EnbiCPtwL.jpg",
-   "link": "https://www.amazon.com/dp/B0FVL6R13F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/8, 10:57 AM",
-   "rating": 466375.0,
-   "savings": 90.0,
-   "price_diff": 234.44,
-   "ts": 1791475040
-  },
-  {
-   "id": "df-B0FDXD18FL",
-   "store": "dealforager",
-   "title": "Passenger Side Sliding Door Motor and Cable Repair Kit Compatible with Honda Odyssey 2005-2010 3.5L V6 Replace 72010-SHJ-A21",
-   "price": "97.26",
-   "old_price": "349.89",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41YioQAtxaL.jpg",
-   "link": "https://www.amazon.com/dp/B0FDXD18FL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/8, 10:55 AM",
-   "rating": 454745.0,
-   "savings": 72.0,
-   "price_diff": 252.63,
-   "ts": 1791474940
-  },
-  {
-   "id": "df-B0FG82CJKZ",
-   "store": "dealforager",
-   "title": "70 inch Outdoor Smart Ceiling Fan for Patios Without Light, Black High CFM",
-   "price": "88.77",
-   "old_price": "299.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31AFWBykLyL.jpg",
-   "link": "https://www.amazon.com/dp/B0FG82CJKZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/8, 10:55 AM",
-   "rating": 451601.0,
-   "savings": 70.0,
-   "price_diff": 210.23,
-   "ts": 1791474916
-  },
-  {
    "id": "df-B002CZORRI",
    "store": "dealforager",
    "title": "Kingston Brass KS3101AL Pot Filler, Metal Lever Handle, Polished Chrome,8-1/8-Inch Spout Height",
@@ -15249,5 +15249,5 @@
    "ts": 1791259711
   }
  ],
- "updated": "2026-10-09T07:04:11Z"
+ "updated": "2026-10-09T07:08:06Z"
 }
