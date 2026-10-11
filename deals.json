@@ -1,6 +1,22 @@
 {
  "deals": [
   {
+   "id": "df-B08K3647DP",
+   "store": "dealforager",
+   "title": "VAPKER 100 Pieces Turquoise Color 13cm/5-Inch Silky Handmade Soft Tassels Floss Bookmark Tassels with 2-Inch Cord Loop for Jewelry Making, DIY Projects, Bookmarks",
+   "price": "4.57",
+   "old_price": "",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41hnYYiDvNL.jpg",
+   "link": "https://www.amazon.com/dp/B08K3647DP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/11, 4:25 PM",
+   "rating": 0.0,
+   "savings": 0.0,
+   "price_diff": 0,
+   "ts": 1791753959
+  },
+  {
    "id": "df-B0H1BCVFTP",
    "store": "dealforager",
    "title": "PAZALA 6-Light Butterfly Crystal Chandeliers for Dining Room, Dining Room Chandelier Over Table, 40 Inch Elegant Flush Mount Ceiling Light Fixture for Kitchen Island Living Room",
@@ -27425,22 +27441,6 @@
    "ts": 1791699040
   },
   {
-   "id": "df-B08K3647DP",
-   "store": "dealforager",
-   "title": "VAPKER 100 Pieces Turquoise Color 13cm/5-Inch Silky Handmade Soft Tassels Floss Bookmark Tassels with 2-Inch Cord Loop for Jewelry Making, DIY Projects, Bookmarks",
-   "price": "4.57",
-   "old_price": "",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41hnYYiDvNL.jpg",
-   "link": "https://www.amazon.com/dp/B08K3647DP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/11, 1:08 AM",
-   "rating": 0.0,
-   "savings": 0.0,
-   "price_diff": 0,
-   "ts": 1791698935
-  },
-  {
    "id": "df-B001CC6WD4",
    "store": "dealforager",
    "title": "OSRAM - Diadem PY21W Pair of Vehicle Light Bulbs",
@@ -28657,5 +28657,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-11T21:23:23Z"
+ "updated": "2026-10-11T21:27:21Z"
 }
