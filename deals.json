@@ -1,6 +1,54 @@
 {
  "deals": [
   {
+   "id": "df-B0G4D28B9G",
+   "store": "dealforager",
+   "title": "JAYNLT Solar Garden Light",
+   "price": "161.77",
+   "old_price": "599.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41pgj3uEMcL.jpg",
+   "link": "https://www.amazon.com/dp/B0G4D28B9G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/12, 11:06 PM",
+   "rating": 457343.0,
+   "savings": 73.0,
+   "price_diff": 438.22,
+   "ts": 1791864383
+  },
+  {
+   "id": "df-B0G3TSSB2M",
+   "store": "dealforager",
+   "title": "WINGBO 48 Inch DC Ceiling Fan with Lights and Remote Control, 5 Carved Solid Wood Blades, 6-Speed Noiseless Reversible DC Motor, Indoor Ceiling Fan in Matte Black Finish with Black Blades",
+   "price": "106.34",
+   "old_price": "269.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31HN-FvqFwL.jpg",
+   "link": "https://www.amazon.com/dp/B0G3TSSB2M?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/12, 11:05 PM",
+   "rating": 439125.0,
+   "savings": 60.0,
+   "price_diff": 163.65,
+   "ts": 1791864353
+  },
+  {
+   "id": "df-B0GQT5ZQ31",
+   "store": "dealforager",
+   "title": "ALSTU Extra Large Inflatable Pool with Pump, 121\" X 90\" X 22\" Full-Sized Blow Up Pool with Seats for Adults, Family Inflatable Swimming Pool for Summer Water Party Backyard Garden Lawn",
+   "price": "62.23",
+   "old_price": "246.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51MT6WXCu9L.jpg",
+   "link": "https://www.amazon.com/dp/B0GQT5ZQ31?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/12, 11:05 PM",
+   "rating": 453437.0,
+   "savings": 74.0,
+   "price_diff": 184.75,
+   "ts": 1791864305
+  },
+  {
    "id": "df-B0F5QCMSM4",
    "store": "dealforager",
    "title": "Amerock 18\" Merced Matte Black Appliance Pull",
@@ -25889,54 +25937,6 @@
    "ts": 1791811190
   },
   {
-   "id": "df-B0G4D28B9G",
-   "store": "dealforager",
-   "title": "JAYNLT Solar Garden Light",
-   "price": "161.77",
-   "old_price": "599.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41pgj3uEMcL.jpg",
-   "link": "https://www.amazon.com/dp/B0G4D28B9G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/12, 8:12 AM",
-   "rating": 457343.0,
-   "savings": 73.0,
-   "price_diff": 438.22,
-   "ts": 1791810764
-  },
-  {
-   "id": "df-B0G3TSSB2M",
-   "store": "dealforager",
-   "title": "WINGBO 48 Inch DC Ceiling Fan with Lights and Remote Control, 5 Carved Solid Wood Blades, 6-Speed Noiseless Reversible DC Motor, Indoor Ceiling Fan in Matte Black Finish with Black Blades",
-   "price": "106.34",
-   "old_price": "269.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31HN-FvqFwL.jpg",
-   "link": "https://www.amazon.com/dp/B0G3TSSB2M?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/12, 8:12 AM",
-   "rating": 439125.0,
-   "savings": 60.0,
-   "price_diff": 163.65,
-   "ts": 1791810739
-  },
-  {
-   "id": "df-B0GQT5ZQ31",
-   "store": "dealforager",
-   "title": "ALSTU Extra Large Inflatable Pool with Pump, 121\" X 90\" X 22\" Full-Sized Blow Up Pool with Seats for Adults, Family Inflatable Swimming Pool for Summer Water Party Backyard Garden Lawn",
-   "price": "62.23",
-   "old_price": "246.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51MT6WXCu9L.jpg",
-   "link": "https://www.amazon.com/dp/B0GQT5ZQ31?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/12, 8:11 AM",
-   "rating": 453437.0,
-   "savings": 74.0,
-   "price_diff": 184.75,
-   "ts": 1791810689
-  },
-  {
    "id": "df-B0D22N8WVB",
    "store": "dealforager",
    "title": "Kitchen Faucet Cartridge Replacement Parts for Hansgrohe 94008000, Cold Flow Right Side Installation Suitable for Shower Valve Cartridge (94008000)",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-13T04:02:46Z"
+ "updated": "2026-10-13T04:08:01Z"
 }
