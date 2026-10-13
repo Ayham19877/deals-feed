@@ -1,6 +1,134 @@
 {
  "deals": [
   {
+   "id": "df-B0GMPWM5MY",
+   "store": "dealforager",
+   "title": "3-IN-1 evaporative coolers, Personal Air Cooler w/2Ice Packs & 1.2L Water Tank, Remote, Powered by USB",
+   "price": "4.29",
+   "old_price": "38.87",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/412u++wkSIL.jpg",
+   "link": "https://www.amazon.com/dp/B0GMPWM5MY?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 8:11 AM",
+   "rating": 403185.0,
+   "savings": 88.0,
+   "price_diff": 34.58,
+   "ts": 1791897082
+  },
+  {
+   "id": "df-B0GMQXLHQL",
+   "store": "dealforager",
+   "title": "GGSTDDUP Mini Resin Cat Figurines 24 Pcs, Cute Realistic Resin Animal",
+   "price": "4.64",
+   "old_price": "7.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41350YG-fqL.jpg",
+   "link": "https://www.amazon.com/dp/B0GMQXLHQL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 8:11 AM",
+   "rating": 249225.0,
+   "savings": 41.0,
+   "price_diff": 3.35,
+   "ts": 1791897075
+  },
+  {
+   "id": "df-B07G4LYQVW",
+   "store": "dealforager",
+   "title": "Moen Doux Brushed Nickel Two-Handle Adjustable Widespread Contemporary Bathroom Faucet Trim Kit, Valve Required, TS6925BN",
+   "price": "125.30",
+   "old_price": "479.97",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31F1s0J6owL.jpg",
+   "link": "https://www.amazon.com/dp/B07G4LYQVW?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 8:10 AM",
+   "rating": 457005.0,
+   "savings": 73.0,
+   "price_diff": 354.67,
+   "ts": 1791897001
+  },
+  {
+   "id": "df-B07D1PRDCG",
+   "store": "dealforager",
+   "title": "Mercer Industries 418020 Silicon Carbide 12\" x 18\" Floor Sanding Sheets, 20 Grit (20 pack)",
+   "price": "60.31",
+   "old_price": "143.38",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51Du2f3oSGL.jpg",
+   "link": "https://www.amazon.com/dp/B07D1PRDCG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 8:09 AM",
+   "rating": 435334.0,
+   "savings": 57.0,
+   "price_diff": 83.07,
+   "ts": 1791896974
+  },
+  {
+   "id": "df-B081KJ2HZD",
+   "store": "dealforager",
+   "title": "Slice 10526 Rounded Tip Ceramic Replacement Blade with 1\" Cutting Depth, Equivalent to 20 Metal Blades (18 Pack), White",
+   "price": "30.86",
+   "old_price": "109.80",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51jmhS3iv5L.jpg",
+   "link": "https://www.amazon.com/dp/B081KJ2HZD?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 8:08 AM",
+   "rating": 430922.0,
+   "savings": 71.0,
+   "price_diff": 78.94,
+   "ts": 1791896905
+  },
+  {
+   "id": "df-B07N347DWL",
+   "store": "dealforager",
+   "title": "The Original Donut Shop Peppermint Bark K-Cup Pods, 24/box",
+   "price": "14.02",
+   "old_price": "17.75",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51gSMSu3bpL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B07N347DWL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 8:08 AM",
+   "rating": 41594933.0,
+   "savings": 21.0,
+   "price_diff": 3.73,
+   "ts": 1791896897
+  },
+  {
+   "id": "df-B08128Y3CQ",
+   "store": "dealforager",
+   "title": "Gizmo Riders Snow Sled for Kids, Adults - Toboggan Sled, Easy Turning Steering Wheel, Anti-Slip Seat, Pull Up Brake, Durable Plastic Sled, Lightweight, Snow Sleds, Age 3+, 260 lbs",
+   "price": "49.39",
+   "old_price": "119.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31c-2vczS2L.jpg",
+   "link": "https://www.amazon.com/dp/B08128Y3CQ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "toys",
+   "badge": "",
+   "date": "10/13, 8:08 AM",
+   "rating": 431232.0,
+   "savings": 58.0,
+   "price_diff": 70.6,
+   "ts": 1791896894
+  },
+  {
+   "id": "df-B07RZY51YJ",
+   "store": "dealforager",
+   "title": "uxcell Cable Hole Cover, 2Inch/50mm Zinc Alloy Desk Wire Cord Cable Grommets Hole Cover for Office PC Desk Cable Cord Organizer, 4Pcs Red Bronze",
+   "price": "4.48",
+   "old_price": "15.20",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41uEX3rGTgL.jpg",
+   "link": "https://www.amazon.com/dp/B07RZY51YJ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 8:08 AM",
+   "rating": 332518.0,
+   "savings": 70.0,
+   "price_diff": 10.72,
+   "ts": 1791896894
+  },
+  {
    "id": "df-B0G1Z9X5PN",
    "store": "dealforager",
    "title": "GROHE Cubeo Shower Trim, Pressure Balance Control, Brushed Gold",
@@ -209,22 +337,6 @@
    "ts": 1791896450
   },
   {
-   "id": "df-B0C7HK3VVL",
-   "store": "dealforager",
-   "title": "Smartish iPhone 15 Plus Clear Case MagSafe, Gripmunk, Slim Grip",
-   "price": "4.73",
-   "old_price": "19.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/413+Y-pxeEL.jpg",
-   "link": "https://www.amazon.com/dp/B0C7HK3VVL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 8:00 AM",
-   "rating": 269869.0,
-   "savings": 76.0,
-   "price_diff": 15.26,
-   "ts": 1791896445
-  },
-  {
    "id": "df-B076KYX5C2",
    "store": "dealforager",
    "title": "Deltana EP6125U4 Edge Pull HD, 6 1/4\" x 1 1/4\" in Brushed Brass",
@@ -385,22 +497,6 @@
    "ts": 1791896291
   },
   {
-   "id": "df-B0DK1G2MZG",
-   "store": "dealforager",
-   "title": "FNTCASE for Samsung Galaxy S25 Phone Case: Dual Layer Non Slip Protective",
-   "price": "4.73",
-   "old_price": "5.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41CCJtq1jQL.jpg",
-   "link": "https://www.amazon.com/dp/B0DK1G2MZG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 7:57 AM",
-   "rating": 190073.0,
-   "savings": 21.0,
-   "price_diff": 1.26,
-   "ts": 1791896221
-  },
-  {
    "id": "df-B00VTHSZK0",
    "store": "dealforager",
    "title": "Rain Bird XCZ100PRF Residential/Light Commercial Medium Flow Assembled Control Zone Kit",
@@ -479,22 +575,6 @@
    "savings": 20.0,
    "price_diff": 0.96,
    "ts": 1791896175
-  },
-  {
-   "id": "df-B019KKFI98",
-   "store": "dealforager",
-   "title": "Sylvania LED Light Bulb, 60W Equivalent A19, Efficient 8.5W, Medium Base, Frosted Finish, 800 Lumens, Daylight - 4 Pack (79284)",
-   "price": "4.73",
-   "old_price": "7.40",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41N1N6n3C-L.jpg",
-   "link": "https://www.amazon.com/dp/B019KKFI98?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 7:56 AM",
-   "rating": 295994.0,
-   "savings": 36.0,
-   "price_diff": 2.67,
-   "ts": 1791896166
   },
   {
    "id": "df-B0DPKL5YLP",
@@ -801,6 +881,22 @@
    "ts": 1791895641
   },
   {
+   "id": "df-B08CK5V43F",
+   "store": "dealforager",
+   "title": "TUCCH Wallet Case for iPhone XR (6.1\") 2018, 3 Card Slots, Lake Blue",
+   "price": "4.39",
+   "old_price": "20.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51J3ZDEu9FL.jpg",
+   "link": "https://www.amazon.com/dp/B08CK5V43F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 7:45 AM",
+   "rating": 270916.0,
+   "savings": 79.0,
+   "price_diff": 16.6,
+   "ts": 1791895545
+  },
+  {
    "id": "df-B08D28VH58",
    "store": "dealforager",
    "title": "Rust-Oleum 1966730 Painter's Touch Latex Paint, Half Pint, Gloss Apple Red, 8 Fl Oz (Pack of 6)",
@@ -911,6 +1007,22 @@
    "savings": 64.0,
    "price_diff": 142.05,
    "ts": 1791895192
+  },
+  {
+   "id": "df-B07RQ9LW78",
+   "store": "dealforager",
+   "title": "CARON Simply Soft Speckle Yarn, Abyss",
+   "price": "4.39",
+   "old_price": "5.16",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41A0EkJ7U-L.jpg",
+   "link": "https://www.amazon.com/dp/B07RQ9LW78?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 7:39 AM",
+   "rating": 257533.0,
+   "savings": 14.0,
+   "price_diff": 0.77,
+   "ts": 1791895163
   },
   {
    "id": "df-B0CB8JFDPJ",
@@ -1663,22 +1775,6 @@
    "savings": 57.0,
    "price_diff": 121.27,
    "ts": 1791893585
-  },
-  {
-   "id": "df-B0CH6V47JZ",
-   "store": "dealforager",
-   "title": "HEYORUN Cherry Blossom Clear Case Compatible with iPhone 15 Pro Max, Sakura Girls and Women Floral Back Case Cover, Flower Transparent Flexible TPU Bumper Shockproof Protective Case",
-   "price": "4.73",
-   "old_price": "5.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41csby9Hl1L.jpg",
-   "link": "https://www.amazon.com/dp/B0CH6V47JZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 7:12 AM",
-   "rating": 264832.0,
-   "savings": 21.0,
-   "price_diff": 1.26,
-   "ts": 1791893552
   },
   {
    "id": "df-B01FYKVM5W",
@@ -3265,6 +3361,22 @@
    "ts": 1791888623
   },
   {
+   "id": "df-B08R6MPRZX",
+   "store": "dealforager",
+   "title": "Herb Stripper, Jiaedge Green 9 holes Stainless Steel Kitchen Herbs Leaf Stripping Tool, Metal Herb Peeler for Kale, Collard Greens, Thyme, Basil, Rosemary Stripper",
+   "price": "4.39",
+   "old_price": "7.59",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41zSAE2Q62S.jpg",
+   "link": "https://www.amazon.com/dp/B08R6MPRZX?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 5:49 AM",
+   "rating": 358004.0,
+   "savings": 42.0,
+   "price_diff": 3.2,
+   "ts": 1791888585
+  },
+  {
    "id": "df-B0FH6BV21N",
    "store": "dealforager",
    "title": "GLAMIGHT Blue Pendant Lights Kitchen Island,11.8\" Seeded Glass Globe 2 Pack",
@@ -3279,22 +3391,6 @@
    "savings": 63.0,
    "price_diff": 101.26,
    "ts": 1791888551
-  },
-  {
-   "id": "df-B0CRT2R2VZ",
-   "store": "dealforager",
-   "title": "Zac & Rachel Women's Pull On Sleeveless DTY Cowlneck Knit Top, Surf The Web/Poppy Red, L",
-   "price": "4.73",
-   "old_price": "29.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41o23l0IHrL.jpg",
-   "link": "https://www.amazon.com/dp/B0CRT2R2VZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 5:48 AM",
-   "rating": 357674.0,
-   "savings": 84.0,
-   "price_diff": 25.26,
-   "ts": 1791888483
   },
   {
    "id": "df-B016APMKJC",
@@ -3503,22 +3599,6 @@
    "savings": 71.0,
    "price_diff": 92.46,
    "ts": 1791888235
-  },
-  {
-   "id": "df-B0DDPKK9CK",
-   "store": "dealforager",
-   "title": "Amazon Essentials Girls' Closed Toe Fisherman Sandals, Pink Faux Leather, 7",
-   "price": "4.73",
-   "old_price": "15.50",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31Lwy2tB9iL.jpg",
-   "link": "https://www.amazon.com/dp/B0DDPKK9CK?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 5:43 AM",
-   "rating": 325506.0,
-   "savings": 69.0,
-   "price_diff": 10.77,
-   "ts": 1791888225
   },
   {
    "id": "df-B0D326J23D",
@@ -3790,6 +3870,38 @@
    "rating": 242613.0,
    "savings": 53.0,
    "price_diff": 5.35,
+   "ts": 1791887111
+  },
+  {
+   "id": "df-B0DFLYYM7W",
+   "store": "dealforager",
+   "title": "Shivnsotpa Balloon Set,118 pcs Latex Balloons Combination for Birthday Summer Home Party Celebration Decoration",
+   "price": "4.64",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41MM1h7RJQL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DFLYYM7W?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 5:25 AM",
+   "rating": 267227.0,
+   "savings": 69.0,
+   "price_diff": 10.35,
+   "ts": 1791887111
+  },
+  {
+   "id": "df-B08QXSTGYJ",
+   "store": "dealforager",
+   "title": "Add-On Sanitizer Bottle Holder – CTA Add-On Universal Metal Bottle Holder for Hand Sanitizer or Wipes Dispensers – Compatible with CTA PAD-PARAF Floor Stands & More CTA Products - Black - (ADD-SB2B)",
+   "price": "4.64",
+   "old_price": "40.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31YhRi5cBBL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B08QXSTGYJ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 5:25 AM",
+   "rating": 293145.0,
+   "savings": 88.0,
+   "price_diff": 35.36,
    "ts": 1791887111
   },
   {
@@ -4529,22 +4641,6 @@
    "ts": 1791884241
   },
   {
-   "id": "df-B004PEIY9G",
-   "store": "dealforager",
-   "title": "BLACK+DECKER 12x15-Inch Electric Skillet with Glass Lid",
-   "price": "44.39",
-   "old_price": "103.80",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31oFk81gjbL.jpg",
-   "link": "https://www.amazon.com/dp/B004PEIY9G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/13, 4:35 AM",
-   "rating": 428657.0,
-   "savings": 57.0,
-   "price_diff": 59.41,
-   "ts": 1791884159
-  },
-  {
    "id": "df-B000BQT3MO",
    "store": "dealforager",
    "title": "Harvey's WM Harvey 043010 Stainless Plumbers Putty, 14 oz",
@@ -4961,22 +5057,6 @@
    "ts": 1791883161
   },
   {
-   "id": "df-B0CRR8W8T9",
-   "store": "dealforager",
-   "title": "LALUZ Bathroom Light Fixtures, 4-Light Black and Gold Vanity Lights for Bathroom with Clear Globe Glass Shade, Modern Farmhouse Bathroom Vanity Lighting Over Mirror, 29.5\" L x 7\" W x 9\" H",
-   "price": "37.86",
-   "old_price": "156.72",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41T73iN7DhL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0CRR8W8T9?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/13, 4:19 AM",
-   "rating": 428800.0,
-   "savings": 75.0,
-   "price_diff": 118.86,
-   "ts": 1791883160
-  },
-  {
    "id": "df-B07QKL1WRL",
    "store": "dealforager",
    "title": "Cooling Towels 4 Pack, 40x12 Inch Cooling Towel for Neck & Face, Sports",
@@ -5039,6 +5119,22 @@
    "savings": 58.0,
    "price_diff": 132.16,
    "ts": 1791882908
+  },
+  {
+   "id": "df-B07VWSFQRT",
+   "store": "dealforager",
+   "title": "ENCASED Galaxy Note 10 Case (Thin Armor) Slim Flexible Grip Phone Cover (Samsung Note 10) Black (Note 10)",
+   "price": "4.39",
+   "old_price": "12.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51z1guYZaNL.jpg",
+   "link": "https://www.amazon.com/dp/B07VWSFQRT?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 4:13 AM",
+   "rating": 298028.0,
+   "savings": 66.0,
+   "price_diff": 8.6,
+   "ts": 1791882817
   },
   {
    "id": "df-B003CUBPUY",
@@ -6193,22 +6289,6 @@
    "ts": 1791879380
   },
   {
-   "id": "df-B0CVNS4SGW",
-   "store": "dealforager",
-   "title": "Ekena Millwork 3 1/2\"W x 3 1/2\"H x 192\"L 3-Sided (U-Beam) Reclaimed Axed Cut HeritageTimber Faux Wood Ceiling Beam, Primed Tan",
-   "price": "107.04",
-   "old_price": "236.74",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31oNSKZ3-yL.jpg",
-   "link": "https://www.amazon.com/dp/B0CVNS4SGW?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/13, 3:14 AM",
-   "rating": 428507.0,
-   "savings": 54.0,
-   "price_diff": 129.7,
-   "ts": 1791879285
-  },
-  {
    "id": "df-B0C2WRM4MV",
    "store": "dealforager",
    "title": "Kingston AE8405CG Deck-Mount Clawfoot Tub Faucet, Oil Rubbed Bronze",
@@ -6399,22 +6479,6 @@
    "savings": 84.0,
    "price_diff": 160.03,
    "ts": 1791877336
-  },
-  {
-   "id": "df-B0F9PP9DTM",
-   "store": "dealforager",
-   "title": "Delta Trinsic Pro Touchless Commercial Style Kitchen Faucet with Touch Technology, Gold Spring Kitchen Sink Faucet with Pull Down Sprayer, Champagne Bronze 9659TL-CZ-DST",
-   "price": "558.03",
-   "old_price": "979.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31mAVRKEjsL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0F9PP9DTM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/13, 2:42 AM",
-   "rating": 428930.0,
-   "savings": 43.0,
-   "price_diff": 420.97,
-   "ts": 1791877333
   },
   {
    "id": "df-B0H2M663XV",
@@ -7009,6 +7073,70 @@
    "ts": 1791871809
   },
   {
+   "id": "df-B0DC3QV2SP",
+   "store": "dealforager",
+   "title": "Ksleri 2 Pack Matte Screen Protector for iPhone 16 Pro/iPhone 17 6.3-inch",
+   "price": "4.37",
+   "old_price": "15.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51YFLLoWRYL.jpg",
+   "link": "https://www.amazon.com/dp/B0DC3QV2SP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/13, 1:06 AM",
+   "rating": 264509.0,
+   "savings": 72.0,
+   "price_diff": 11.62,
+   "ts": 1791871582
+  },
+  {
+   "id": "df-B0748DF5C4",
+   "store": "dealforager",
+   "title": "Allied Brass P-230-24-TS-BBR Pipeline Collection 24 Inch Wall Mounted Towel Shelf, Brushed Bronze",
+   "price": "49.16",
+   "old_price": "230.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31otsxhFDyL.jpg",
+   "link": "https://www.amazon.com/dp/B0748DF5C4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 1:04 AM",
+   "rating": 456148.0,
+   "savings": 78.0,
+   "price_diff": 180.84,
+   "ts": 1791871479
+  },
+  {
+   "id": "df-B07DFMFP11",
+   "store": "dealforager",
+   "title": "OZCO Ironwood Post Base Kit, 10in x 10in, 1 Kit with Hardware, Black",
+   "price": "61.90",
+   "old_price": "202.28",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31ixUownYpL.jpg",
+   "link": "https://www.amazon.com/dp/B07DFMFP11?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 1:03 AM",
+   "rating": 453119.0,
+   "savings": 69.0,
+   "price_diff": 140.38,
+   "ts": 1791871438
+  },
+  {
+   "id": "df-B07ZRVW3CH",
+   "store": "dealforager",
+   "title": "Adesso 4003-02 Harvest Large Drum Pendant, White",
+   "price": "26.32",
+   "old_price": "150.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21q+cbVQBxL.jpg",
+   "link": "https://www.amazon.com/dp/B07ZRVW3CH?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/13, 1:03 AM",
+   "rating": 468965.0,
+   "savings": 82.0,
+   "price_diff": 123.68,
+   "ts": 1791871388
+  },
+  {
    "id": "df-B0G236SVLV",
    "store": "dealforager",
    "title": "Lucius 120W Under Canopy LED Grow Lights",
@@ -7553,22 +7681,6 @@
    "ts": 1791868772
   },
   {
-   "id": "df-B003E7E4M6",
-   "store": "dealforager",
-   "title": "Climax Metal C-150-A-KW Set Screw Collar, With Keyway, Aluminum, 1-1/2\" Bore Size, 2-1/4\" OD, With 3/8-16 x 3/8 Set Screw",
-   "price": "9.17",
-   "old_price": "59.05",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41ne5+hua9L.jpg",
-   "link": "https://www.amazon.com/dp/B003E7E4M6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under10",
-   "badge": "",
-   "date": "10/13, 12:18 AM",
-   "rating": 428963.0,
-   "savings": 84.0,
-   "price_diff": 49.88,
-   "ts": 1791868721
-  },
-  {
    "id": "df-B08KSFM41R",
    "store": "dealforager",
    "title": "Design House Karsen 1-Handle Tub and Shower Trim Kit, Satin Nickel",
@@ -8049,22 +8161,6 @@
    "ts": 1791866848
   },
   {
-   "id": "df-B0CGCZ8RDG",
-   "store": "dealforager",
-   "title": "classy leaves Gold Chandeliers, Gold Linear Chandelier Light Fixture with White Fabric Shade, Modern 3 Light Island Light for Kitchen Dining Room Living Room",
-   "price": "59.25",
-   "old_price": "149.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31Uws8AaD8L.jpg",
-   "link": "https://www.amazon.com/dp/B0CGCZ8RDG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/12, 11:47 PM",
-   "rating": 428554.0,
-   "savings": 60.0,
-   "price_diff": 90.74,
-   "ts": 1791866845
-  },
-  {
    "id": "df-B09FCXJG4Y",
    "store": "dealforager",
    "title": "Ekena Millwork 18\"W x 38\"H Rustic Two Equal Louver Sandblasted Faux Wood Shutters (Per Pair), Primed Tan",
@@ -8319,6 +8415,22 @@
    "savings": 0.0,
    "price_diff": 0,
    "ts": 1791866257
+  },
+  {
+   "id": "df-B0CWKD8L5F",
+   "store": "dealforager",
+   "title": "Letter Balloons - SHE FOUND HER MATCH 16\" Inch Alphabet Letters Foil Mylar Balloon Bachelorette Party Banner (Red)",
+   "price": "4.74",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51-mg3o0yGL.jpg",
+   "link": "https://www.amazon.com/dp/B0CWKD8L5F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/12, 11:37 PM",
+   "rating": 259463.0,
+   "savings": 68.0,
+   "price_diff": 10.25,
+   "ts": 1791866255
   },
   {
    "id": "df-B07GQ8MW7Y",
@@ -8977,20 +9089,20 @@
    "ts": 1791864305
   },
   {
-   "id": "df-B0FM7L7PF5",
+   "id": "df-B0F6VRFJ2X",
    "store": "dealforager",
-   "title": "VeoeV Rechargeable Pool Lights with Remote, LED Lights for Pumpkin, Wireless Waterproof Color Changing, Cordless Submersible Light for Halloween, Boat, Pumpkin, Pool, -4 Pack",
-   "price": "23.62",
-   "old_price": "109.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51ML8-DeJAL.jpg",
-   "link": "https://www.amazon.com/dp/B0FM7L7PF5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
+   "title": "Lenovo USB-C Wired Mouse, Full Size, Ambidextrous Design, Black, Ergonomic Shape, Precision Sensor, Plug-and-Play for Right and Left-Handed Users, Durable Performance Gaming PC",
+   "price": "4.74",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21KJCjluerL.jpg",
+   "link": "https://www.amazon.com/dp/B0F6VRFJ2X?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
    "badge": "",
-   "date": "10/12, 11:03 PM",
-   "rating": 428793.0,
-   "savings": 78.0,
-   "price_diff": 86.37,
-   "ts": 1791864228
+   "date": "10/12, 11:02 PM",
+   "rating": 285628.0,
+   "savings": 20.0,
+   "price_diff": 1.25,
+   "ts": 1791864155
   },
   {
    "id": "df-B0F5QCMSM4",
@@ -10241,22 +10353,6 @@
    "ts": 1791858935
   },
   {
-   "id": "df-B01CNAV1K2",
-   "store": "dealforager",
-   "title": "Amazon Basics 3.5mm Auxiliary Male to Female Jack Audio Extension Cable, Adapter for Headphone or Smartphone, 12 Foot, Black, AZ35MF02",
-   "price": "4.73",
-   "old_price": "5.57",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41kf+9XVofL.jpg",
-   "link": "https://www.amazon.com/dp/B01CNAV1K2?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 9:35 PM",
-   "rating": 262869.0,
-   "savings": 15.0,
-   "price_diff": 0.84,
-   "ts": 1791858935
-  },
-  {
    "id": "df-B0GL11VM8X",
    "store": "dealforager",
    "title": "72\" Waterproof Outdoor Ceiling Fan with Light, Modern Black Aluminum Blade",
@@ -10641,22 +10737,6 @@
    "ts": 1791853673
   },
   {
-   "id": "df-B0DKN8C5T1",
-   "store": "dealforager",
-   "title": "Miqala for Galaxy A14 5G Case,Glow in The Dark Three Layer Heavy Duty Shockproof Full Protection Hard Plastic Bumper+Soft Silicone Protective Case for Samsung Galaxy A14 5G,Dark",
-   "price": "4.73",
-   "old_price": "15.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51itA3aBWsL.jpg",
-   "link": "https://www.amazon.com/dp/B0DKN8C5T1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 8:07 PM",
-   "rating": 264374.0,
-   "savings": 70.0,
-   "price_diff": 11.26,
-   "ts": 1791853670
-  },
-  {
    "id": "df-B01MZXRSST",
    "store": "dealforager",
    "title": "ARKON Mounts 25mm Ball to 17mm Ball Adapter SP25MM17",
@@ -10958,22 +11038,6 @@
    "rating": 296337.0,
    "savings": 15.0,
    "price_diff": 0.84,
-   "ts": 1791852024
-  },
-  {
-   "id": "df-B002C8JQ76",
-   "store": "dealforager",
-   "title": "Prime-Line K 5003 Aluminum Spring-Loaded Screen Door Strike Plate",
-   "price": "4.63",
-   "old_price": "5.51",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41i8hj-Nb5L._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B002C8JQ76?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 7:40 PM",
-   "rating": 254161.0,
-   "savings": 15.0,
-   "price_diff": 0.88,
    "ts": 1791852024
   },
   {
@@ -11473,22 +11537,6 @@
    "ts": 1791843910
   },
   {
-   "id": "df-B0F2LWKPTN",
-   "store": "dealforager",
-   "title": "SUPFINE Magnetic for iPhone 15 Case Red",
-   "price": "4.73",
-   "old_price": "13.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/411n7bMpJEL.jpg",
-   "link": "https://www.amazon.com/dp/B0F2LWKPTN?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 5:23 PM",
-   "rating": 260706.0,
-   "savings": 66.0,
-   "price_diff": 9.26,
-   "ts": 1791843832
-  },
-  {
    "id": "df-B0FPWKBYS8",
    "store": "dealforager",
    "title": "Two-Handle Wall-Mount Bath Faucet Valve Repalce for 20716-K-NA, Compatible with K-T23491-4 valve trim, for Tub Spout and Hand Shower Trim, 1/2-14 NPT Inlet, 45 Psi, 10 Gpm, Solid Brass Construction",
@@ -11519,38 +11567,6 @@
    "savings": 72.0,
    "price_diff": 216.09,
    "ts": 1791842027
-  },
-  {
-   "id": "df-B0DGXDF1ZQ",
-   "store": "dealforager",
-   "title": "Temdan for iPhone 15 Pro Max Case with Screen Protector Clear | Compatible with Magsafe, Anti-Yellowing, Military-Grade Protection, Shockproof Slim Magnetic Phone Case,6.7\"",
-   "price": "4.73",
-   "old_price": "5.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41kW7z1OAqL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DGXDF1ZQ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 4:24 PM",
-   "rating": 190083.0,
-   "savings": 21.0,
-   "price_diff": 1.26,
-   "ts": 1791840258
-  },
-  {
-   "id": "df-B0CWNF2GJL",
-   "store": "dealforager",
-   "title": "RMOCR Case Compatible with Moto G Stylus 5G 2024, Full Body Heavy Duty Rugged Shockproof Protective Phone Cover with Lanyard Strap, Tempered Glass Screen Protector, Mint Green",
-   "price": "4.73",
-   "old_price": "5.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51xkNbOx1CL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0CWNF2GJL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/12, 4:24 PM",
-   "rating": 265071.0,
-   "savings": 21.0,
-   "price_diff": 1.26,
-   "ts": 1791840258
   },
   {
    "id": "df-B0FQHSVH15",
@@ -11647,6 +11663,22 @@
    "savings": 81.0,
    "price_diff": 17.24,
    "ts": 1791839824
+  },
+  {
+   "id": "df-B0DCYW9WZD",
+   "store": "dealforager",
+   "title": "Xfilm iPhone 16 Pro/16 Pro Max Camera Lens Protector Bling Diamond, Desert",
+   "price": "4.64",
+   "old_price": "7.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51T+uxpr3fL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DCYW9WZD?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/12, 4:03 PM",
+   "rating": 232791.0,
+   "savings": 41.0,
+   "price_diff": 3.35,
+   "ts": 1791838994
   },
   {
    "id": "df-B0F8BQ6Q2B",
@@ -11855,22 +11887,6 @@
    "savings": 73.0,
    "price_diff": 13.24,
    "ts": 1791835139
-  },
-  {
-   "id": "df-B0G1Y8PQ54",
-   "store": "dealforager",
-   "title": "Glazart Luxa Modern Alabaster Wall Sconce Set of 2, Natural Stone Bathroom Vanity Light Fixtures with E26 Base, Alabaster Sconce Wall Lamp for Bedroom, Living Room, Hallway, Stairs",
-   "price": "98.39",
-   "old_price": "219.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31TNRrYhMlL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0G1Y8PQ54?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/12, 2:44 PM",
-   "rating": 428588.0,
-   "savings": 55.0,
-   "price_diff": 121.6,
-   "ts": 1791834242
   },
   {
    "id": "df-B003EV7FAU",
@@ -26705,22 +26721,6 @@
    "ts": 1791749772
   },
   {
-   "id": "df-B0058DFG12",
-   "store": "dealforager",
-   "title": "Berkley PowerBait Power Eggs Floating Magnum Fishing Soft Bait, Lemon Lime - Garlic Scent, .5 oz Small Jar",
-   "price": "4.63",
-   "old_price": "5.40",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41XT-Z109EL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0058DFG12?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/11, 3:16 PM",
-   "rating": 243646.0,
-   "savings": 14.0,
-   "price_diff": 0.77,
-   "ts": 1791749772
-  },
-  {
    "id": "df-B0GTNXXJYX",
    "store": "dealforager",
    "title": "CCINEE 2026 World Cup Soccer Party Backdrop Decorations, 71x43 Inch World Flags Football Backdrop Banner for Soccer Birthday World Tournament Cup Party Photo Booth Football Event Welcome Poster",
@@ -27617,5 +27617,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-13T13:08:02Z"
+ "updated": "2026-10-13T13:12:55Z"
 }
