@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B0FH6FR743",
+   "store": "dealforager",
+   "title": "SuydanBox Magnetic for iPhone Air Case Silicone Lake Blue",
+   "price": "4.58",
+   "old_price": "15.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41rerEpTcUL.jpg",
+   "link": "https://www.amazon.com/dp/B0FH6FR743?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/14, 8:06 AM",
+   "rating": 265107.0,
+   "savings": 71.0,
+   "price_diff": 11.41,
+   "ts": 1791983205
+  },
+  {
+   "id": "df-B0DTDXTKWC",
+   "store": "dealforager",
+   "title": "Diverbox for iPhone 16e Case & iPhone 17e Case [Compatible with MagSafe] [Shockproof] [Dropproof] [with Screen Protector ] Heavy Duty Protection Phone Cover (Black)",
+   "price": "4.20",
+   "old_price": "12.59",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41c5cPfA-YL.jpg",
+   "link": "https://www.amazon.com/dp/B0DTDXTKWC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/14, 8:02 AM",
+   "rating": 260252.0,
+   "savings": 66.0,
+   "price_diff": 8.39,
+   "ts": 1791982936
+  },
+  {
    "id": "df-B0DPMSMQ4B",
    "store": "dealforager",
    "title": "Commercial Ice Maker 120 Lbs/24H, Stainless Steel Free Standing Ice Cube Maker with 45 Lbs Storage Bin, Self Cleaning Ice Maker with LCD Panel for Bar, Restaurant, Office",
@@ -11857,22 +11889,6 @@
    "ts": 1791932399
   },
   {
-   "id": "df-B0FH6FR743",
-   "store": "dealforager",
-   "title": "SuydanBox Magnetic for iPhone Air Case Silicone Lake Blue",
-   "price": "4.58",
-   "old_price": "15.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41rerEpTcUL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0FH6FR743?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 5:59 PM",
-   "rating": 265107.0,
-   "savings": 71.0,
-   "price_diff": 11.41,
-   "ts": 1791932399
-  },
-  {
    "id": "df-B0CJ6X6QP3",
    "store": "dealforager",
    "title": "SIBEITU 3+3 Pack Screen Protector for iPhone 15 6.1 Inch Tempered Glass",
@@ -12062,22 +12078,6 @@
    "rating": 255582.0,
    "savings": 61.0,
    "price_diff": 6.59,
-   "ts": 1791931052
-  },
-  {
-   "id": "df-B0DTDXTKWC",
-   "store": "dealforager",
-   "title": "Diverbox for iPhone 16e Case & iPhone 17e Case [Compatible with MagSafe] [Shockproof] [Dropproof] [with Screen Protector ] Heavy Duty Protection Phone Cover (Black)",
-   "price": "4.20",
-   "old_price": "12.59",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41c5cPfA-YL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DTDXTKWC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/13, 5:37 PM",
-   "rating": 260252.0,
-   "savings": 66.0,
-   "price_diff": 8.39,
    "ts": 1791931052
   },
   {
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-14T13:01:03Z"
+ "updated": "2026-10-14T13:08:04Z"
 }
