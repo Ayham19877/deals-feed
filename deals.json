@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B0BG7TBQGK",
+   "store": "dealforager",
+   "title": "DMaos Compatible with iPhone 14 Case for Women, Crocodile Synthetic Patent Leather Cover, Classic Fashion for iPhone14 2022 6.1 Inch - Black",
+   "price": "4.58",
+   "old_price": "12.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51fPNQXpIeL.jpg",
+   "link": "https://www.amazon.com/dp/B0BG7TBQGK?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/27, 7:43 AM",
+   "rating": 258787.0,
+   "savings": 64.0,
+   "price_diff": 8.41,
+   "ts": 1793105005
+  },
+  {
+   "id": "df-B0BG7QSGW1",
+   "store": "dealforager",
+   "title": "DMaos Compatible with iPhone 14 Pro Max Case for Women, Crocodile Synthetic Patent Leather Cover, Classic Fashion for iPhone14 Pro Max 2022 6.7 Inch - Black",
+   "price": "4.58",
+   "old_price": "12.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51fPNQXpIeL.jpg",
+   "link": "https://www.amazon.com/dp/B0BG7QSGW1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/27, 7:43 AM",
+   "rating": 260259.0,
+   "savings": 64.0,
+   "price_diff": 8.41,
+   "ts": 1793105005
+  },
+  {
    "id": "df-B0DC22HXR2",
    "store": "dealforager",
    "title": "ALPS OutdoorZ Ducks Unlimited Gun Sling - Mossy Oak Original Bottomland",
@@ -12191,38 +12223,6 @@
    "savings": 58.0,
    "price_diff": 169.11,
    "ts": 1793049888
-  },
-  {
-   "id": "df-B0BG7TBQGK",
-   "store": "dealforager",
-   "title": "DMaos Compatible with iPhone 14 Case for Women, Crocodile Synthetic Patent Leather Cover, Classic Fashion for iPhone14 2022 6.1 Inch - Black",
-   "price": "4.58",
-   "old_price": "12.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51fPNQXpIeL.jpg",
-   "link": "https://www.amazon.com/dp/B0BG7TBQGK?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/26, 4:24 PM",
-   "rating": 258787.0,
-   "savings": 64.0,
-   "price_diff": 8.41,
-   "ts": 1793049853
-  },
-  {
-   "id": "df-B0BG7QSGW1",
-   "store": "dealforager",
-   "title": "DMaos Compatible with iPhone 14 Pro Max Case for Women, Crocodile Synthetic Patent Leather Cover, Classic Fashion for iPhone14 Pro Max 2022 6.7 Inch - Black",
-   "price": "4.58",
-   "old_price": "12.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51fPNQXpIeL.jpg",
-   "link": "https://www.amazon.com/dp/B0BG7QSGW1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/26, 4:24 PM",
-   "rating": 260259.0,
-   "savings": 64.0,
-   "price_diff": 8.41,
-   "ts": 1793049853
   },
   {
    "id": "df-B06XCDCGHN",
@@ -27617,5 +27617,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-27T12:42:17Z"
+ "updated": "2026-10-27T12:43:53Z"
 }
