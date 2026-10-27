@@ -1,6 +1,54 @@
 {
  "deals": [
   {
+   "id": "df-B0GWKXV3LL",
+   "store": "dealforager",
+   "title": "MOSISO Compatible with MacBook Neo Case 13 inch 2026 A3404 A18 Pro Chip",
+   "price": "4.28",
+   "old_price": "5.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31I8EDvctgL.jpg",
+   "link": "https://www.amazon.com/dp/B0GWKXV3LL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/27, 1:44 PM",
+   "rating": 312156.0,
+   "savings": 28.0,
+   "price_diff": 1.7,
+   "ts": 1793126695
+  },
+  {
+   "id": "df-B0918SJ6MF",
+   "store": "dealforager",
+   "title": "HOLO-KROME 08094 1/2\" Shoulder x 4\" Shoulder Length x 3/8\"-16 Black Oxide Alloy Steel Socket Shoulder Bolt - Made in The USA (Pack of 25)",
+   "price": "42.63",
+   "old_price": "998.22",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/319FIYcZt2S._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0918SJ6MF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/27, 1:44 PM",
+   "rating": 463880.0,
+   "savings": 95.0,
+   "price_diff": 955.59,
+   "ts": 1793126686
+  },
+  {
+   "id": "df-B0BR8L22Z4",
+   "store": "dealforager",
+   "title": "Case-Mate IP68 Waterproof Phone Pouch - Sand Dollar",
+   "price": "4.66",
+   "old_price": "14.90",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41yIrynvYAL.jpg",
+   "link": "https://www.amazon.com/dp/B0BR8L22Z4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/27, 1:42 PM",
+   "rating": 262558.0,
+   "savings": 68.0,
+   "price_diff": 10.24,
+   "ts": 1793126529
+  },
+  {
    "id": "df-B083ZJQB8L",
    "store": "dealforager",
    "title": "Progress Lighting Blanco 22\" LED Bath Vanity Light, Brushed Nickel",
@@ -9697,22 +9745,6 @@
    "ts": 1793082251
   },
   {
-   "id": "df-B0BR8L22Z4",
-   "store": "dealforager",
-   "title": "Case-Mate IP68 Waterproof Phone Pouch - Sand Dollar | Touchscreen Floating Waterproof Phone Case with Crossbody Lanyard - Fits All Phones - Beach Cruise Ship Travel Essentials",
-   "price": "4.66",
-   "old_price": "14.90",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41yIrynvYAL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0BR8L22Z4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/27, 1:24 AM",
-   "rating": 262558.0,
-   "savings": 68.0,
-   "price_diff": 10.24,
-   "ts": 1793082251
-  },
-  {
    "id": "df-B07QH2TYR8",
    "store": "dealforager",
    "title": "MightySkins Skin Compatible with Abbott Freestyle Precision Neo - Black Wood | Protective, Durable, and Unique Vinyl Decal wrap Cover | Easy to Apply, Remove, and Change Styles | Made in The USA",
@@ -12015,38 +12047,6 @@
    "savings": 23.0,
    "price_diff": 1.15,
    "ts": 1793071825
-  },
-  {
-   "id": "df-B0GWKXV3LL",
-   "store": "dealforager",
-   "title": "MOSISO Compatible with MacBook Neo Case 13 inch 2026 A3404 A18 Pro Chip",
-   "price": "4.28",
-   "old_price": "5.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31I8EDvctgL.jpg",
-   "link": "https://www.amazon.com/dp/B0GWKXV3LL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/26, 10:26 PM",
-   "rating": 312156.0,
-   "savings": 28.0,
-   "price_diff": 1.7,
-   "ts": 1793071588
-  },
-  {
-   "id": "df-B0918SJ6MF",
-   "store": "dealforager",
-   "title": "HOLO-KROME 08094 1/2\" Shoulder x 4\" Shoulder Length x 3/8\"-16 Black Oxide Alloy Steel Socket Shoulder Bolt - Made in The USA (Pack of 25)",
-   "price": "42.63",
-   "old_price": "998.22",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/319FIYcZt2S._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0918SJ6MF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/26, 10:26 PM",
-   "rating": 463880.0,
-   "savings": 95.0,
-   "price_diff": 955.59,
-   "ts": 1793071581
   },
   {
    "id": "df-B0GYW6D7DM",
@@ -27617,5 +27617,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-27T18:41:58Z"
+ "updated": "2026-10-27T18:45:39Z"
 }
