@@ -1,6 +1,86 @@
 {
  "deals": [
   {
+   "id": "df-B0FHHS7TTM",
+   "store": "dealforager",
+   "title": "LISLIBE Large Rattan Pendant Light, 18.5\" 3-Light Handmade Woven Boho Farmhouse Chandelier, Ideal for Kitchen Island, Dining Room, Living Room, Bedroom & Breakfast Nook",
+   "price": "81.67",
+   "old_price": "359.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/5166Y2zVU6L.jpg",
+   "link": "https://www.amazon.com/dp/B0FHHS7TTM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/28, 8:11 PM",
+   "rating": 459149.0,
+   "savings": 77.0,
+   "price_diff": 278.32,
+   "ts": 1793236274
+  },
+  {
+   "id": "df-B0FLWHY5FV",
+   "store": "dealforager",
+   "title": "Mainrenka Halloween Skull Case for Samsung Galaxy S23 Ultra, Aesthetic Cute Flower Skeleton Phone Case Hybrid 2-Layer Hard Shell Shockproof Design Protective Cover",
+   "price": "3.40",
+   "old_price": "16.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/515SsvDkb4L.jpg",
+   "link": "https://www.amazon.com/dp/B0FLWHY5FV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/28, 8:10 PM",
+   "rating": 257857.0,
+   "savings": 79.0,
+   "price_diff": 13.59,
+   "ts": 1793236224
+  },
+  {
+   "id": "df-B000CRHL6M",
+   "store": "dealforager",
+   "title": "Gates 27418 Multi-Use Hose-50' Length, Inner Diameter 3/4\"",
+   "price": "125.55",
+   "old_price": "986.40",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51Ud08LBLtL.jpg",
+   "link": "https://www.amazon.com/dp/B000CRHL6M?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/28, 8:09 PM",
+   "rating": 459518.0,
+   "savings": 87.0,
+   "price_diff": 860.85,
+   "ts": 1793236168
+  },
+  {
+   "id": "df-B000BUU5T0",
+   "store": "dealforager",
+   "title": "Camco Dual Flush Camper & RV Holding Tank Rinser - Features 2-Way Jet Cleaning Action That Helps Reduce Odors and Malfunctions in RV Holding Tanks and Hoses - RV Black Tank Cleaner (39072)",
+   "price": "20.90",
+   "old_price": "32.21",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51EjvLkqUKL.jpg",
+   "link": "https://www.amazon.com/dp/B000BUU5T0?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "10/28, 8:08 PM",
+   "rating": 41727355.0,
+   "savings": 35.0,
+   "price_diff": 11.31,
+   "ts": 1793236130
+  },
+  {
+   "id": "df-B076H37XDL",
+   "store": "dealforager",
+   "title": "Goodyear 48mm Presta Valve Bicycle Tube | 27.5 Bike Tube with Butyl Rubber | Dependable Mountain Bike Tubes for Premium Cycling | ‎27.5 X 2.1/2.6",
+   "price": "4.00",
+   "old_price": "8.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51VzaqWJjnL.jpg",
+   "link": "https://www.amazon.com/dp/B076H37XDL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "10/28, 8:08 PM",
+   "rating": 299912.0,
+   "savings": 50.0,
+   "price_diff": 4.0,
+   "ts": 1793236121
+  },
+  {
    "id": "df-B0G52LS47Y",
    "store": "dealforager",
    "title": "Refice 25.6\" Rattan Chandelier, 6-Light Boho Chandelier with Natural Woven Reed Shade, Black Coastal & Farmhouse Light Fixtures Pendant Light for Dining Room, Living Room, Foyer, Bedroom & Hallway",
@@ -11681,22 +11761,6 @@
    "ts": 1793183938
   },
   {
-   "id": "df-B000CRHL6M",
-   "store": "dealforager",
-   "title": "Gates 27418 Multi-Use Hose-50' Length, Inner Diameter 3/4\" | Replaces 33210 80033 80035 H1716. Direct-fit OE-grade replacement.",
-   "price": "125.55",
-   "old_price": "986.40",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51Ud08LBLtL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B000CRHL6M?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/28, 5:38 AM",
-   "rating": 459518.0,
-   "savings": 87.0,
-   "price_diff": 860.85,
-   "ts": 1793183929
-  },
-  {
    "id": "df-B0D6QPG7BH",
    "store": "dealforager",
    "title": "BOZZYS Lockout Tagout Kit,Loto Locks for Breaker and Plug Lock Out Tag Out Kits Electrical-OSHA Compliant(BD-ZTI KIT2-26PACK)",
@@ -12209,54 +12273,6 @@
    "ts": 1793181198
   },
   {
-   "id": "df-B0FLWHY5FV",
-   "store": "dealforager",
-   "title": "Mainrenka Halloween Skull Case for Samsung Galaxy S23 Ultra, Aesthetic Cute Flower Skeleton Phone Case Hybrid 2-Layer Hard Shell Shockproof Design Protective Cover",
-   "price": "3.40",
-   "old_price": "16.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/515SsvDkb4L.jpg",
-   "link": "https://www.amazon.com/dp/B0FLWHY5FV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/28, 4:49 AM",
-   "rating": 257857.0,
-   "savings": 79.0,
-   "price_diff": 13.59,
-   "ts": 1793180948
-  },
-  {
-   "id": "df-B000BUU5T0",
-   "store": "dealforager",
-   "title": "Camco Dual Flush Camper & RV Holding Tank Rinser - Features 2-Way Jet Cleaning Action That Helps Reduce Odors and Malfunctions in RV Holding Tanks and Hoses - RV Black Tank Cleaner (39072)",
-   "price": "20.90",
-   "old_price": "32.21",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51EjvLkqUKL.jpg",
-   "link": "https://www.amazon.com/dp/B000BUU5T0?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/28, 4:47 AM",
-   "rating": 41727355.0,
-   "savings": 35.0,
-   "price_diff": 11.31,
-   "ts": 1793180853
-  },
-  {
-   "id": "df-B076H37XDL",
-   "store": "dealforager",
-   "title": "Goodyear 48mm Presta Valve Bicycle Tube | 27.5 Bike Tube with Butyl Rubber | Dependable Mountain Bike Tubes for Premium Cycling | ‎27.5 X 2.1/2.6",
-   "price": "4.00",
-   "old_price": "8.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51VzaqWJjnL.jpg",
-   "link": "https://www.amazon.com/dp/B076H37XDL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "10/28, 4:47 AM",
-   "rating": 299912.0,
-   "savings": 50.0,
-   "price_diff": 4.0,
-   "ts": 1793180843
-  },
-  {
    "id": "df-B0FP589J2Y",
    "store": "dealforager",
    "title": "SUANDUCK Wallet Case for iPhone 14 6.1\", Blue | RFID-Blocking Card Holder, Kickstand, Magnetic Closure, PU Leather Folio Flip Cover, Protective Women Men Cases",
@@ -12287,22 +12303,6 @@
    "savings": 57.0,
    "price_diff": 171.22,
    "ts": 1793178210
-  },
-  {
-   "id": "df-B0FHHS7TTM",
-   "store": "dealforager",
-   "title": "LISLIBE Large Rattan Pendant Light, 18.5\" 3-Light Handmade Woven Boho Farmhouse Chandelier, Ideal for Kitchen Island, Dining Room, Living Room, Bedroom & Breakfast Nook",
-   "price": "81.67",
-   "old_price": "359.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/5166Y2zVU6L._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0FHHS7TTM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "10/28, 3:20 AM",
-   "rating": 459149.0,
-   "savings": 77.0,
-   "price_diff": 278.32,
-   "ts": 1793175601
   },
   {
    "id": "df-B0FLK7ZXBN",
@@ -27617,5 +27617,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-10-29T01:08:17Z"
+ "updated": "2026-10-29T01:14:04Z"
 }
