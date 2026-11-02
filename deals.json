@@ -1,6 +1,102 @@
 {
  "deals": [
   {
+   "id": "df-B0DYNT93FV",
+   "store": "dealforager",
+   "title": "Edvivi Pendant Light with Nordic Style Cone Paper Shade, 1-Light 16.5 in. Dia Natural Brown Cardboard Chandelier, Adjustable Hanging Light Fixture for Dining Table, No Bulbs Included",
+   "price": "18.25",
+   "old_price": "95.90",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31piYV8ZN9L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DYNT93FV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/2, 1:07 PM",
+   "rating": 442414.0,
+   "savings": 80.0,
+   "price_diff": 77.65,
+   "ts": 1793646422
+  },
+  {
+   "id": "df-B000FK9OVQ",
+   "store": "dealforager",
+   "title": "Prime-Line B 515 1-1/4 In. Sliding Screen Door Tension Spring with Concave Plastic Rollers (2 Pack)",
+   "price": "4.54",
+   "old_price": "5.39",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31q8ZNPJOTL.jpg",
+   "link": "https://www.amazon.com/dp/B000FK9OVQ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 1:06 PM",
+   "rating": 289591.0,
+   "savings": 15.0,
+   "price_diff": 0.85,
+   "ts": 1793646384
+  },
+  {
+   "id": "df-B00E21OPRM",
+   "store": "dealforager",
+   "title": "Attwood 88FHE516-6 Johnson/Evinrude/OMC Fuel Hose Fitting, 5/16-Inch",
+   "price": "4.53",
+   "old_price": "6.36",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41-7ynA-w+L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B00E21OPRM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 1:06 PM",
+   "rating": 317577.0,
+   "savings": 28.0,
+   "price_diff": 1.83,
+   "ts": 1793646376
+  },
+  {
+   "id": "df-B01CE8QTL4",
+   "store": "dealforager",
+   "title": "Fletch [Blu-ray]",
+   "price": "3.68",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51ga-9SJrfL.jpg",
+   "link": "https://www.amazon.com/dp/B01CE8QTL4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 1:05 PM",
+   "rating": 292523.0,
+   "savings": 75.0,
+   "price_diff": 11.31,
+   "ts": 1793646325
+  },
+  {
+   "id": "df-B0GMRR1NV3",
+   "store": "dealforager",
+   "title": "US Soccer Men's Big and Tall Graphic T-Shirt | USMNT Short Sleeve Crewneck, 100% Cotton",
+   "price": "3.20",
+   "old_price": "17.60",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41SEKSQgx1L.jpg",
+   "link": "https://www.amazon.com/dp/B0GMRR1NV3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 12:59 PM",
+   "rating": 350966.0,
+   "savings": 81.0,
+   "price_diff": 14.4,
+   "ts": 1793645982
+  },
+  {
+   "id": "df-B07BRZ2KW5",
+   "store": "dealforager",
+   "title": "Motorola MG7700 Modem WiFi Router Combo with Power Boost | Approved by Comcast Xfinity, Cox and Spectrum | for Cable Plans Up to 800 Mbps | DOCSIS 3.0 + Gigabit Router",
+   "price": "43.99",
+   "old_price": "225.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31uuZ8ciV-L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B07BRZ2KW5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/2, 12:52 PM",
+   "rating": 442524.0,
+   "savings": 80.0,
+   "price_diff": 181.01,
+   "ts": 1793645566
+  },
+  {
    "id": "df-B0GZ2JQBL5",
    "store": "dealforager",
    "title": "20,000RPM Electric Weed Wacker with Wheel,700W Cordless Weed Eater, Battery Powered, 4-in-1 String Trimmer,Brush Cutter/Grass Trimmer/Lawn Mower/Lawn Edger with 3 Type Blades for Garden Yard",
@@ -8337,22 +8433,6 @@
    "ts": 1793611080
   },
   {
-   "id": "df-B0FMYDZVCQ",
-   "store": "dealforager",
-   "title": "ziidoo Lantern Pendant Light Imitation Silk Chandelier，15.7in White Wabi Sabi Light Fixture Round Modern Adjustable 3000K Hanging Lights for Kitchen Dining Room Living Room Restaurant",
-   "price": "39.50",
-   "old_price": "139.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41xbAokuqJL.jpg",
-   "link": "https://www.amazon.com/dp/B0FMYDZVCQ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/2, 3:17 AM",
-   "rating": 440962.0,
-   "savings": 71.0,
-   "price_diff": 100.49,
-   "ts": 1793611067
-  },
-  {
    "id": "df-B0FXGJMXBG",
    "store": "dealforager",
    "title": "MOWIME Magnetic Designed for Samsung Galaxy S25 Ultra Case, Brown",
@@ -9439,22 +9519,6 @@
    "savings": 52.0,
    "price_diff": 47.0,
    "ts": 1793607372
-  },
-  {
-   "id": "df-B0FC2JJ39M",
-   "store": "dealforager",
-   "title": "CANSHN Magnetic for Google Pixel 10 Pro Case with Metal Stand, Clear",
-   "price": "4.63",
-   "old_price": "24.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/519yfg0HyxL.jpg",
-   "link": "https://www.amazon.com/dp/B0FC2JJ39M?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 2:13 AM",
-   "rating": 349906.0,
-   "savings": 81.0,
-   "price_diff": 20.36,
-   "ts": 1793607227
   },
   {
    "id": "df-B07QH32P4V",
@@ -11889,22 +11953,6 @@
    "ts": 1793593639
   },
   {
-   "id": "df-B0CTKTWW8V",
-   "store": "dealforager",
-   "title": "Delta Trinsic Touchless Kitchen Faucet with Touch Technology, Brushed Gold Kitchen Sink Faucet with Pull Down Sprayer, Single Hole, Champagne Bronze 9159TL-CZ-DST",
-   "price": "478.72",
-   "old_price": "909.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31NtY3lw35L.jpg",
-   "link": "https://www.amazon.com/dp/B0CTKTWW8V?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/1, 10:24 PM",
-   "rating": 440971.0,
-   "savings": 47.0,
-   "price_diff": 430.28,
-   "ts": 1793593468
-  },
-  {
    "id": "df-B0B8XKR91V",
    "store": "dealforager",
    "title": "OTOFLY Designed for iPhone 14 Pro Case, Silicone Shockproof Slim Thin Phone Case for iPhone 14 Pro 6.1 inch (Cloud Mauve)",
@@ -11967,38 +12015,6 @@
    "savings": 74.0,
    "price_diff": 87.82,
    "ts": 1793591735
-  },
-  {
-   "id": "df-B01CE8QTL4",
-   "store": "dealforager",
-   "title": "Fletch [Blu-ray]",
-   "price": "3.68",
-   "old_price": "14.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51ga-9SJrfL.jpg",
-   "link": "https://www.amazon.com/dp/B01CE8QTL4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/1, 9:43 PM",
-   "rating": 292523.0,
-   "savings": 75.0,
-   "price_diff": 11.31,
-   "ts": 1793590999
-  },
-  {
-   "id": "df-B0GMRR1NV3",
-   "store": "dealforager",
-   "title": "US Soccer Men's Big and Tall Graphic T-Shirt | USMNT Short Sleeve Crewneck, 100% Cotton",
-   "price": "3.20",
-   "old_price": "17.60",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41SEKSQgx1L.jpg",
-   "link": "https://www.amazon.com/dp/B0GMRR1NV3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/1, 9:37 PM",
-   "rating": 350966.0,
-   "savings": 81.0,
-   "price_diff": 14.4,
-   "ts": 1793590656
   },
   {
    "id": "df-B000BQL7BY",
@@ -12238,22 +12254,6 @@
    "rating": 312428.0,
    "savings": 77.0,
    "price_diff": 15.46,
-   "ts": 1793577377
-  },
-  {
-   "id": "df-B000FK9OVQ",
-   "store": "dealforager",
-   "title": "Prime-Line B 515 1-1/4 In. Sliding Screen Door Tension Spring with Concave Plastic Rollers (2 Pack)",
-   "price": "4.54",
-   "old_price": "5.39",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31q8ZNPJOTL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B000FK9OVQ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/1, 5:56 PM",
-   "rating": 289591.0,
-   "savings": 15.0,
-   "price_diff": 0.85,
    "ts": 1793577377
   },
   {
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-02T18:50:23Z"
+ "updated": "2026-11-02T19:08:11Z"
 }
