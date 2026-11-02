@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B077R2WHSC",
+   "store": "dealforager",
+   "title": "The Greatest Showman",
+   "price": "3.49",
+   "old_price": "19.49",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51oOcQN+5lL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B077R2WHSC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 6:38 AM",
+   "rating": 224042.0,
+   "savings": 82.0,
+   "price_diff": 16.0,
+   "ts": 1793623105
+  },
+  {
+   "id": "df-B0F9YF542C",
+   "store": "dealforager",
+   "title": "MELUCEE 5 Lights Modern LED Chandeliers for Dining Room Brushed Nickel | Kitchen Chandeliers Over Table 5CCT Dimmable Hanging Ceiling Light Led Pendant Light with Seeded Glass Shade,3000K-6000K",
+   "price": "39.09",
+   "old_price": "209.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41hUwwUd70L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0F9YF542C?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/2, 6:31 AM",
+   "rating": 431629.0,
+   "savings": 81.0,
+   "price_diff": 170.9,
+   "ts": 1793622668
+  },
+  {
    "id": "df-B0011DK0I2",
    "store": "dealforager",
    "title": "Magnavox MWD2206 DVD/VCR Combination Player",
@@ -95,38 +127,6 @@
    "savings": 77.0,
    "price_diff": 15.58,
    "ts": 1793620901
-  },
-  {
-   "id": "df-B016APMQNW",
-   "store": "dealforager",
-   "title": "Ekena Millwork Lifetime Vinyl LP2S14X06700MB Standard Two Equal Panel Vinyls, Raised Panel Vinyl Shutters, w/Installation Shutter-Lok's & Matching Screws (Per Pair), 14 3/4\"W x 67\"H, Midnight Blue",
-   "price": "36.00",
-   "old_price": "90.60",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41XAAEbi0AL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B016APMQNW?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/2, 6:01 AM",
-   "rating": 430947.0,
-   "savings": 60.0,
-   "price_diff": 54.6,
-   "ts": 1793620895
-  },
-  {
-   "id": "df-B07HGVP3S9",
-   "store": "dealforager",
-   "title": "KRAUS Standart Pro 14 -inch Undermount Single Bowl 16 Gauge Stainless Steel Bar Kitchen Sink, KHU101-14",
-   "price": "159.08",
-   "old_price": "309.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31YP1IOwOLL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B07HGVP3S9?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/2, 6:01 AM",
-   "rating": 439296.0,
-   "savings": 48.0,
-   "price_diff": 149.92,
-   "ts": 1793620866
   },
   {
    "id": "df-B0GSQ8CJGK",
@@ -1009,22 +1009,6 @@
    "ts": 1793614385
   },
   {
-   "id": "df-B0DR5M717V",
-   "store": "dealforager",
-   "title": "1 Pair LH and RH Fender Badges Black Red Painted Coyote Head Logo Fit for Car Side Or Rear Trunk Emblem Badge Sticker Decal (Black with Red)",
-   "price": "4.13",
-   "old_price": "59.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41sndq-R+TL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DR5M717V?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 4:12 AM",
-   "rating": 279864.0,
-   "savings": 93.0,
-   "price_diff": 55.86,
-   "ts": 1793614351
-  },
-  {
    "id": "df-B0G3P8156K",
    "store": "dealforager",
    "title": "Rosarnnah for iPhone 17 Pro Case Aesthetic Orange, Sea Glyph | Cute Funny Pattern Design for Girls Women Men, Durable Shockproof 6.3\" Phone Case 6.6ft Drop Protection for Fashion Daily",
@@ -1889,6 +1873,22 @@
    "ts": 1793613063
   },
   {
+   "id": "df-B0FZSMVZFR",
+   "store": "dealforager",
+   "title": "COCHARM Clicker Belly Button Rings 14G Dangle Star Belly Nagel Rings for Women Surgical Steel Belly Navel Button Piercing 8/10MM",
+   "price": "4.49",
+   "old_price": "9.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31ly263KNeL.jpg",
+   "link": "https://www.amazon.com/dp/B0FZSMVZFR?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 3:50 AM",
+   "rating": 301651.0,
+   "savings": 55.0,
+   "price_diff": 5.5,
+   "ts": 1793613016
+  },
+  {
    "id": "df-B0GRTF9S4Z",
    "store": "dealforager",
    "title": "Pool Alarm with Home Receiver - 110dB Loud Floating Safety Pool Alarms with App Remote Control for Inground & Above Ground Pools, Extra Water Safety for Kids, Pets and Pool Owners, Green",
@@ -1935,6 +1935,22 @@
    "savings": 83.0,
    "price_diff": 20.83,
    "ts": 1793612943
+  },
+  {
+   "id": "df-B0BHZVCSDF",
+   "store": "dealforager",
+   "title": "14\"W x 47\"H Americraft Four Board (2 Batten) Exterior Real Wood Joined Board-n-Batten Shutters (Per Pair), Black",
+   "price": "196.93",
+   "old_price": "397.75",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31Om3lJ9EoL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0BHZVCSDF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/2, 3:49 AM",
+   "rating": 429421.0,
+   "savings": 50.0,
+   "price_diff": 200.82,
+   "ts": 1793612942
   },
   {
    "id": "df-B0FBWH57CR",
@@ -2081,6 +2097,22 @@
    "ts": 1793612656
   },
   {
+   "id": "df-B0BG62YT9R",
+   "store": "dealforager",
+   "title": "Berta (2 Pieces) Full Overlay Frameless Soft Closing European Hinges, 110 Degree 3D Adjustable Clip On Concealed Kitchen Cabinet Door Hinges with Screws…",
+   "price": "4.81",
+   "old_price": "9.55",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41mHCeU7CfL.jpg",
+   "link": "https://www.amazon.com/dp/B0BG62YT9R?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 3:42 AM",
+   "rating": 342004.0,
+   "savings": 49.0,
+   "price_diff": 4.74,
+   "ts": 1793612547
+  },
+  {
    "id": "df-B0DZWWHW6N",
    "store": "dealforager",
    "title": "dolria Modern Ring Chandelier Crystal Chandeliers for Dining Room Round Ceiling Light Fixture for Living Room Bedroom Lighting LED Dimmable with Remote Ring Lights Black",
@@ -2142,22 +2174,6 @@
    "rating": 260553.0,
    "savings": 20.0,
    "price_diff": 0.98,
-   "ts": 1793612532
-  },
-  {
-   "id": "df-B0F6C7T6KS",
-   "store": "dealforager",
-   "title": "Designed for Google Pixel 10 Pro XL Case Built in Metal Ring Holder | Screen Protector + Camera Lens Protector + Kickstand,Heavy Duty Shockproof Full Body Phone Cover,Black Matte",
-   "price": "3.92",
-   "old_price": "4.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41j-NfhTedL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0F6C7T6KS?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 3:42 AM",
-   "rating": 189525.0,
-   "savings": 21.0,
-   "price_diff": 1.07,
    "ts": 1793612532
   },
   {
@@ -3921,6 +3937,22 @@
    "ts": 1793609526
   },
   {
+   "id": "df-B002KLORBK",
+   "store": "dealforager",
+   "title": "Gardner Bender KO701 Metal Knockout Seal, ½\" Conduit Size, Marked Size, Rust-Proof Galvanized Steel, 16 AWG Steel, ⅜\" Thread, Embossed, Self Centering, for Knockout Punch/Die Conduit, Cover",
+   "price": "10.24",
+   "old_price": "70.88",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31HjTdJSOLL.jpg",
+   "link": "https://www.amazon.com/dp/B002KLORBK?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/2, 2:51 AM",
+   "rating": 429448.0,
+   "savings": 85.0,
+   "price_diff": 60.64,
+   "ts": 1793609511
+  },
+  {
    "id": "df-B00CTTN7J6",
    "store": "dealforager",
    "title": "NSI Industries Polaris Black IT-4 Insulated Multi-Tap Connector- 2-Port Single-Sided Entry for 4-14 AWG Wire Range - Dry Locations - Dual-rated cooper and/or aluminum - 1.18-inch width, 1.38-inch height, 1.12-inch length - Hex size 1/8-inch - 12 Pack",
@@ -4543,22 +4575,6 @@
    "savings": 75.0,
    "price_diff": 56.89,
    "ts": 1793608252
-  },
-  {
-   "id": "df-B0FJTTX9JL",
-   "store": "dealforager",
-   "title": "Robelle 16 x 32 ft Industrial Ultra Winter Pool Cover for Inground Pools | Blue Pool Cover, 5 ft Overlap (21 x 37ft Cover Size), Solid 14 x 12 Scrim, 4.5 oz/yd2, 20-Year Warranty, Style: 201632RA",
-   "price": "75.95",
-   "old_price": "177.29",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41Toifms9IL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0FJTTX9JL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/2, 2:29 AM",
-   "rating": 429753.0,
-   "savings": 57.0,
-   "price_diff": 101.34,
-   "ts": 1793608185
   },
   {
    "id": "df-B0BGYLMFDH",
@@ -5825,6 +5841,22 @@
    "ts": 1793605869
   },
   {
+   "id": "df-B0DB5KTVYM",
+   "store": "dealforager",
+   "title": "CUZMIGO Liquid Silicone Case for Samsung Galaxy S21 Ultra, Black",
+   "price": "4.85",
+   "old_price": "9.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41SMdeQlJgL.jpg",
+   "link": "https://www.amazon.com/dp/B0DB5KTVYM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/2, 1:50 AM",
+   "rating": 245200.0,
+   "savings": 51.0,
+   "price_diff": 5.14,
+   "ts": 1793605859
+  },
+  {
    "id": "df-B0D2JK3CLH",
    "store": "dealforager",
    "title": "adidas Unisex-Adult Goletto IX Firm Ground/Multi Ground Soccer, Wonder Mauve/White/Wonder Mauve, 11.5",
@@ -6129,54 +6161,6 @@
    "ts": 1793604687
   },
   {
-   "id": "df-B0F3CNDV3W",
-   "store": "dealforager",
-   "title": "Toduso Vintage Wallpaper Peel and Stick Removable Contact Paper Beige Wall Paper Cream Wallpaper for Bedroom Bathroom Kitchen Cabinets Self Adhesive Vinyl 17.3\" x 78.7\"",
-   "price": "4.24",
-   "old_price": "12.99",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B0F3CNDV3W?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 1:15 AM",
-   "rating": 310759.0,
-   "savings": 67.0,
-   "price_diff": 8.75,
-   "ts": 1793603721
-  },
-  {
-   "id": "df-B0F5HCX4ML",
-   "store": "dealforager",
-   "title": "Verdusa Jersey Shirts for Women Y2K Graphic Tees Streetwear Oversized Tops",
-   "price": "4.69",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/412+FsEFdPL.jpg",
-   "link": "https://www.amazon.com/dp/B0F5HCX4ML?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 1:15 AM",
-   "rating": 328712.0,
-   "savings": 53.0,
-   "price_diff": 5.3,
-   "ts": 1793603721
-  },
-  {
-   "id": "df-B0F23W2DRT",
-   "store": "dealforager",
-   "title": "18 Inch White Undermount Bar Sink",
-   "price": "65.18",
-   "old_price": "219.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41YEtTNKiSL.jpg",
-   "link": "https://www.amazon.com/dp/B0F23W2DRT?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/2, 1:15 AM",
-   "rating": 455717.0,
-   "savings": 70.0,
-   "price_diff": 153.82,
-   "ts": 1793603717
-  },
-  {
    "id": "df-B08KSKC4LG",
    "store": "dealforager",
    "title": "Moen Align MotionSense Wave Touchless Kitchen Faucet, Brushed Gold, 7565EWBG",
@@ -6270,22 +6254,6 @@
    "rating": 201530.0,
    "savings": 25.0,
    "price_diff": 1.58,
-   "ts": 1793601651
-  },
-  {
-   "id": "df-B0G3V25T38",
-   "store": "dealforager",
-   "title": "Screen Magnifier for Cell Phone,3D HD Big Screens Phone Magnifier,Foldable Phones Stand with Movie Screens Amplifier,Portable Mobile Phones Magnifier Projector for Movies,Compatible All Smartphones",
-   "price": "4.71",
-   "old_price": "8.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51rQEwtxLML._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0G3V25T38?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/2, 12:40 AM",
-   "rating": 298521.0,
-   "savings": 47.0,
-   "price_diff": 4.28,
    "ts": 1793601651
   },
   {
@@ -7393,6 +7361,22 @@
    "ts": 1793586584
   },
   {
+   "id": "df-B0F8N1J598",
+   "store": "dealforager",
+   "title": "Floral Mi Bautizo Baptism Backdrop for Girl God Bless Christening Banner First Holy Communion Party Background Banner Sign Photo Booth Props 7x5ft",
+   "price": "10.69",
+   "old_price": "17.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51HROzlxstL.jpg",
+   "link": "https://www.amazon.com/dp/B0F8N1J598?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/1, 8:28 PM",
+   "rating": 41829861.0,
+   "savings": 40.0,
+   "price_diff": 7.3,
+   "ts": 1793586495
+  },
+  {
    "id": "df-B0BVMGS1RN",
    "store": "dealforager",
    "title": "MUCLUD 4Pack LED Flood Light Outdoor,250W LED Work Light 25500lm with 6FT US Plug,IP66 Waterproof Exterior Security Lights,6000K Daylight White Outside Floodlights Slim Design for Playground Yard",
@@ -7743,22 +7727,6 @@
    "savings": 20.0,
    "price_diff": 1.02,
    "ts": 1793582633
-  },
-  {
-   "id": "df-B0FC1L442Z",
-   "store": "dealforager",
-   "title": "Cordless Robotic Pool Cleaner, Pool Vacuum 180W Brushless Motor, 45000Pa Suction, Wall & Waterline Climbing, Auto Path Mapping, for Pools up to 2150 Sq.Ft.",
-   "price": "187.43",
-   "old_price": "429.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41WNqpqEerL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0FC1L442Z?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/1, 7:01 PM",
-   "rating": 430789.0,
-   "savings": 56.0,
-   "price_diff": 242.56,
-   "ts": 1793581290
   },
   {
    "id": "df-B079RVBPR7",
@@ -9535,6 +9503,22 @@
    "savings": 91.0,
    "price_diff": 33.92,
    "ts": 1793575682
+  },
+  {
+   "id": "df-B0CQXFM24B",
+   "store": "dealforager",
+   "title": "HUQUZN 14\" x 2-3/8\" x 1/4\" Rotary Cutter Blades Replacement, Heavy Duty Steel Mower Blades Fit for Bush Hog Bobcat Case CAT John Deere Kubota, 2 Pack",
+   "price": "31.49",
+   "old_price": "129.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31ynMP7a7yL.jpg",
+   "link": "https://www.amazon.com/dp/B0CQXFM24B?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/1, 5:26 PM",
+   "rating": 429261.0,
+   "savings": 75.0,
+   "price_diff": 98.5,
+   "ts": 1793575601
   },
   {
    "id": "df-B0FL24HRQK",
@@ -12127,6 +12111,22 @@
    "savings": 58.0,
    "price_diff": 205.37,
    "ts": 1793568695
+  },
+  {
+   "id": "df-B0G6KL2BP9",
+   "store": "dealforager",
+   "title": "Mouzor Cute Phone Case Compatible with iPhone 17 Pro Max, Big Head Kitty Cat Case, Animals Cartoon Soft Touch TPU Shockproof Bumper Cases Cover for Girls Women",
+   "price": "4.49",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41TAGiEbKaL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0G6KL2BP9?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/1, 12:53 PM",
+   "rating": 201415.0,
+   "savings": 25.0,
+   "price_diff": 1.5,
+   "ts": 1793559199
   },
   {
    "id": "df-B0GXJV7V9G",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-02T12:23:04Z"
+ "updated": "2026-11-02T12:44:34Z"
 }
