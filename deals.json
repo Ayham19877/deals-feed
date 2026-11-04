@@ -1,6 +1,22 @@
 {
  "deals": [
   {
+   "id": "df-B08D2C1H9C",
+   "store": "dealforager",
+   "title": "NYDJ Womens's Teresa Trouser, Burbank Wash, 4",
+   "price": "37.51",
+   "old_price": "60.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31ldaxMT6+L.jpg",
+   "link": "https://www.amazon.com/dp/B08D2C1H9C?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "fashion",
+   "badge": "",
+   "date": "11/4, 6:49 AM",
+   "rating": 41763005.0,
+   "savings": 38.0,
+   "price_diff": 23.47,
+   "ts": 1793796542
+  },
+  {
    "id": "df-B0FBWWZ873",
    "store": "dealforager",
    "title": "VEVOR 4 Pack Folding Chairs, Foldable Plastic Chair with Reinforced Metal Frame, Heavy Duty Portable Party Chairs, Stackable Indoor Outdoor Seat w/Non-Slip Feet for Event Dining Patio, 350lbs Capacity",
@@ -12271,22 +12287,6 @@
    "savings": 69.0,
    "price_diff": 9.93,
    "ts": 1793756977
-  },
-  {
-   "id": "df-B0006VAL02",
-   "store": "dealforager",
-   "title": "M-D Building Vinyl Wall Base, Brown, 4in x 120ft",
-   "price": "30.44",
-   "old_price": "93.93",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/21W9PM7Np3L.jpg",
-   "link": "https://www.amazon.com/dp/B0006VAL02?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/3, 7:49 PM",
-   "rating": 440250.0,
-   "savings": 67.0,
-   "price_diff": 63.49,
-   "ts": 1793756964
   },
   {
    "id": "df-B0F5Q7M7F2",
@@ -27585,5 +27585,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-04T12:45:46Z"
+ "updated": "2026-11-04T13:08:43Z"
 }
