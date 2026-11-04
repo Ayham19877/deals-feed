@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B0G4R42G95",
+   "store": "dealforager",
+   "title": "SunStory 3 in 1 Magnetic for iPhone 17 Air Case, Black",
+   "price": "4.75",
+   "old_price": "6.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/412jDkJVVbL.jpg",
+   "link": "https://www.amazon.com/dp/B0G4R42G95?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 8:52 AM",
+   "rating": 204456.0,
+   "savings": 32.0,
+   "price_diff": 2.24,
+   "ts": 1793803949
+  },
+  {
+   "id": "df-B0DXV6L8V4",
+   "store": "dealforager",
+   "title": "Dumkery Cute Case Compatible with Samsung Galaxy S23 Case, Aesthetic Black Line Art Floral Rose Pattern Print, PC Military Grade Protection Shockproof Cases Cover Skin for Girls Women",
+   "price": "4.73",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41-GqTo1-zL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DXV6L8V4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 8:49 AM",
+   "rating": 190050.0,
+   "savings": 21.0,
+   "price_diff": 1.26,
+   "ts": 1793803795
+  },
+  {
    "id": "df-B0G23MVRT4",
    "store": "dealforager",
    "title": "1 Pcs Headphones Replacement Audio Cable Aux Wire 3.5mm to 2.5mm (No mic)",
@@ -1663,22 +1695,6 @@
    "savings": 14.0,
    "price_diff": 0.7,
    "ts": 1793788061
-  },
-  {
-   "id": "df-B000VYIH50",
-   "store": "dealforager",
-   "title": "Prime-Line N 6847 Pocket Door Roller Assembly, 3/4 In., Flat, Plastic Wheels on Steel Bracket (2 Pack)",
-   "price": "4.76",
-   "old_price": "6.60",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51YUEWA1qbL.jpg",
-   "link": "https://www.amazon.com/dp/B000VYIH50?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 4:27 AM",
-   "rating": 246130.0,
-   "savings": 27.0,
-   "price_diff": 1.84,
-   "ts": 1793788030
   },
   {
    "id": "df-B008MG2BM4",
@@ -10271,22 +10287,6 @@
    "savings": 77.0,
    "price_diff": 7.75,
    "ts": 1793761333
-  },
-  {
-   "id": "df-B001FGLX72",
-   "store": "dealforager",
-   "title": "Blu-Tack Reusable Adhesive 75g",
-   "price": "4.76",
-   "old_price": "14.19",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B001FGLX72?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/3, 9:02 PM",
-   "rating": 336284.0,
-   "savings": 66.0,
-   "price_diff": 9.43,
-   "ts": 1793761327
   },
   {
    "id": "df-B0CRX9WLRY",
@@ -27585,5 +27585,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-04T14:39:46Z"
+ "updated": "2026-11-04T15:23:31Z"
 }
