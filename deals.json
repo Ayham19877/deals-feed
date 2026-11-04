@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B09FCXJG4Y",
+   "store": "dealforager",
+   "title": "Ekena Millwork 18\"W x 38\"H Rustic Two Equal Louver Sandblasted Faux Wood Shutters (Per Pair), Primed Tan",
+   "price": "45.19",
+   "old_price": "362.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41RwTnXXkAL.jpg",
+   "link": "https://www.amazon.com/dp/B09FCXJG4Y?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/4, 1:07 AM",
+   "rating": 466310.0,
+   "savings": 87.0,
+   "price_diff": 317.79,
+   "ts": 1793776041
+  },
+  {
+   "id": "df-B0C7BMR3GJ",
+   "store": "dealforager",
+   "title": "Mefirt Fruit Basket, 2-Tier Fruit Bowl for Kitchen Counter, Stackable Wall Mounted Fruit Storage, Snack Organizer, Potato and Onion Storage Basket, Hanging Pantry Storage with Wood Lid, 2 Set, White",
+   "price": "34.40",
+   "old_price": "35.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51YUGTB2jKL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0C7BMR3GJ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/4, 1:06 AM",
+   "rating": 41567011.0,
+   "savings": 4.0,
+   "price_diff": 1.59,
+   "ts": 1793776005
+  },
+  {
    "id": "df-B0D9NJV8HW",
    "store": "dealforager",
    "title": "RVBAT850 Battery for Shark Ion R75, R85, S87, RV761, RV771,RV850C, RV1000S",
@@ -12623,38 +12655,6 @@
    "savings": 58.0,
    "price_diff": 209.73,
    "ts": 1793731452
-  },
-  {
-   "id": "df-B09FCXJG4Y",
-   "store": "dealforager",
-   "title": "Ekena Millwork 18\"W x 38\"H Rustic Two Equal Louver Sandblasted Faux Wood Shutters (Per Pair), Primed Tan",
-   "price": "45.19",
-   "old_price": "362.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41RwTnXXkAL.jpg",
-   "link": "https://www.amazon.com/dp/B09FCXJG4Y?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/3, 12:41 PM",
-   "rating": 466310.0,
-   "savings": 87.0,
-   "price_diff": 317.79,
-   "ts": 1793731309
-  },
-  {
-   "id": "df-B0C7BMR3GJ",
-   "store": "dealforager",
-   "title": "Mefirt Fruit Basket, 2-Tier Fruit Bowl for Kitchen Counter, Stackable Wall Mounted Fruit Storage, Snack Organizer, Potato and Onion Storage Basket, Hanging Pantry Storage with Wood Lid, 2 Set, White",
-   "price": "34.40",
-   "old_price": "35.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51YUGTB2jKL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0C7BMR3GJ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/3, 12:41 PM",
-   "rating": 41567011.0,
-   "savings": 4.0,
-   "price_diff": 1.59,
-   "ts": 1793731274
   },
   {
    "id": "df-B0BR5X1GK2",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-04T06:47:43Z"
+ "updated": "2026-11-04T07:08:11Z"
 }
