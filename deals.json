@@ -1,6 +1,118 @@
 {
  "deals": [
   {
+   "id": "df-B08KHSY54Y",
+   "store": "dealforager",
+   "title": "Ring Alarm Open Window Magnet (2nd Gen) | Secure Partially Open Windows | Enjoy Fresh Air While Protected | Ring Contact Sensor & Base Station Required",
+   "price": "3.99",
+   "old_price": "4.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/11nymD6fxdL.jpg",
+   "link": "https://www.amazon.com/dp/B08KHSY54Y?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:48 AM",
+   "rating": 226180.0,
+   "savings": 20.0,
+   "price_diff": 1.0,
+   "ts": 1793864926
+  },
+  {
+   "id": "df-B0FKBLJ964",
+   "store": "dealforager",
+   "title": "Marspark 2 Pcs Stretchy Scrunchie Lanyard Wristlet, Checkered, Black White",
+   "price": "2.99",
+   "old_price": "3.99",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B0FKBLJ964?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:46 AM",
+   "rating": 274631.0,
+   "savings": 25.0,
+   "price_diff": 1.0,
+   "ts": 1793864809
+  },
+  {
+   "id": "df-B0FR4NKD9T",
+   "store": "dealforager",
+   "title": "YENAPOON for iPhone 14 Pro Max Case, Matte Magnetic Phone Cover, Light Blue",
+   "price": "4.73",
+   "old_price": "6.49",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41bwoEm7diL.jpg",
+   "link": "https://www.amazon.com/dp/B0FR4NKD9T?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:41 AM",
+   "rating": 325138.0,
+   "savings": 27.0,
+   "price_diff": 1.76,
+   "ts": 1793864482
+  },
+  {
+   "id": "df-B08KNKHZ9H",
+   "store": "dealforager",
+   "title": "Cole Haan mens Grand Crosscourt Modern Performance Sneaker, Black, 10 Wide US",
+   "price": "55.95",
+   "old_price": "60.00",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31A67mJh7mL.jpg",
+   "link": "https://www.amazon.com/dp/B08KNKHZ9H?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "fashion",
+   "badge": "",
+   "date": "11/5, 1:37 AM",
+   "rating": 41573173.0,
+   "savings": 6.0,
+   "price_diff": 4.05,
+   "ts": 1793864267
+  },
+  {
+   "id": "df-B09228GJ3G",
+   "store": "dealforager",
+   "title": "SPARIN 2 Pack Screen Protector for Samsung Galaxy Tab A7 Lite 8.7 Inch",
+   "price": "4.75",
+   "old_price": "6.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41xKGB1Xf1L.jpg",
+   "link": "https://www.amazon.com/dp/B09228GJ3G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:21 AM",
+   "rating": 245228.0,
+   "savings": 31.0,
+   "price_diff": 2.23,
+   "ts": 1793863288
+  },
+  {
+   "id": "df-B0918T6R8B",
+   "store": "dealforager",
+   "title": "Amerock | Cabinet Pull | Brushed Gold/White | 10-1/16 inch (256 mm) Center to Center | Urbanite | 1 Pack | Drawer Pull | Drawer Handle | Cabinet Hardware",
+   "price": "4.11",
+   "old_price": "19.28",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/11FOGYFTnoL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0918T6R8B?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:20 AM",
+   "rating": 334499.0,
+   "savings": 78.0,
+   "price_diff": 15.17,
+   "ts": 1793863253
+  },
+  {
+   "id": "df-B07RYZRZP8",
+   "store": "dealforager",
+   "title": "Enbrighten LED Rechargeable Lantern, 11”, USB Power Bank, 4400mAh, 650 Lumens, Dimmable, 405 Hours of Run Time, Ideal for Camping, Outdoor, Emergency Weather, Storms, Black, 43934",
+   "price": "16.92",
+   "old_price": "19.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51d4pNqxinL.jpg",
+   "link": "https://www.amazon.com/dp/B07RYZRZP8?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "toys",
+   "badge": "",
+   "date": "11/5, 1:15 AM",
+   "rating": 41604953.0,
+   "savings": 15.0,
+   "price_diff": 3.07,
+   "ts": 1793862943
+  },
+  {
    "id": "df-B0GK75RGN5",
    "store": "dealforager",
    "title": "ZERUK Genuine Leather Case for Samsung Galaxy Z Flip, Military-Grade Drop Protection, Hinge Protection Cover with Ring Kickstand, Gold Trim (Sky Blue, Z Flip7 FE)",
@@ -5089,22 +5201,6 @@
    "ts": 1793831733
   },
   {
-   "id": "df-B0F9LQBGJV",
-   "store": "dealforager",
-   "title": "Armacost Lighting 10\" White CCT Tunable Under Cabinet Lighting LED Strip Lights",
-   "price": "20.09",
-   "old_price": "96.73",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31rf6RtDn5L.jpg",
-   "link": "https://www.amazon.com/dp/B0F9LQBGJV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 4:35 PM",
-   "rating": 441447.0,
-   "savings": 79.0,
-   "price_diff": 76.64,
-   "ts": 1793831715
-  },
-  {
    "id": "df-B0F323WDR4",
    "store": "dealforager",
    "title": "Elevated cat Bowl 3PC, 6.3\" Wide Raised Cat Bowl",
@@ -6911,6 +7007,22 @@
    "savings": 75.0,
    "price_diff": 14.33,
    "ts": 1793827618
+  },
+  {
+   "id": "df-B0DPGRX3MS",
+   "store": "dealforager",
+   "title": "PHILIPS 8K DisplayPort Cable, 6 Ft Long Cord, 8K@60Hz",
+   "price": "4.71",
+   "old_price": "11.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41ZzAnX+bTL.jpg",
+   "link": "https://www.amazon.com/dp/B0DPGRX3MS?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 3:26 PM",
+   "rating": 283353.0,
+   "savings": 60.0,
+   "price_diff": 7.28,
+   "ts": 1793827614
   },
   {
    "id": "df-B0DMWSBSD9",
@@ -9345,22 +9457,6 @@
    "ts": 1793821138
   },
   {
-   "id": "df-B003VG2W2E",
-   "store": "dealforager",
-   "title": "The Hillman Group 560398 10-Inch x 1-Inch Washer Head Self Drilling Screw with Painted Head, 100-Pack,Brown",
-   "price": "4.62",
-   "old_price": "13.49",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41aBqLEDTcL.jpg",
-   "link": "https://www.amazon.com/dp/B003VG2W2E?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 1:36 PM",
-   "rating": 293618.0,
-   "savings": 65.0,
-   "price_diff": 8.87,
-   "ts": 1793820981
-  },
-  {
    "id": "df-B01J8S6G16",
    "store": "dealforager",
    "title": "Amazon Basics DisplayPort to DisplayPort 1.2 Cable, 4K@60Hz, 2K@165Hz, 2K@144Hz Video Resolution, Gold-Plated Connectors, 3 Feet, Black",
@@ -9439,6 +9535,22 @@
    "savings": 8.0,
    "price_diff": 8.72,
    "ts": 1793820776
+  },
+  {
+   "id": "df-B0DB67NJDP",
+   "store": "dealforager",
+   "title": "ZUSLAB Real Silicone Case Compatible with Apple iPhone 16 6.1 Inches 2024, Liquid Silicone Gel Rubber Cover Support Wireless Charging, Anti-Scratch TPU Protective Bumper, Neon Pink",
+   "price": "4.39",
+   "old_price": "10.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41RWRO-5i0L.jpg",
+   "link": "https://www.amazon.com/dp/B0DB67NJDP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 1:31 PM",
+   "rating": 303262.0,
+   "savings": 60.0,
+   "price_diff": 6.6,
+   "ts": 1793820682
   },
   {
    "id": "df-B0F8HFJSZC",
@@ -10177,22 +10289,6 @@
    "ts": 1793819313
   },
   {
-   "id": "df-B00EOA0UD4",
-   "store": "dealforager",
-   "title": "American Standard 023529-0070A/H CARTRIDGE 47 MM W/SEALS -C'MIX/REL+",
-   "price": "3.99",
-   "old_price": "17.53",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31aGp9mu4OL.jpg",
-   "link": "https://www.amazon.com/dp/B00EOA0UD4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 1:07 PM",
-   "rating": 335243.0,
-   "savings": 77.0,
-   "price_diff": 13.54,
-   "ts": 1793819234
-  },
-  {
    "id": "df-B00RC7RP9S",
    "store": "dealforager",
    "title": "ECCO Women's Soft 7 Sneaker, Black, 38 EU/7-7.5 M US",
@@ -10207,22 +10303,6 @@
    "savings": 19.0,
    "price_diff": 17.84,
    "ts": 1793819223
-  },
-  {
-   "id": "df-B004VFQP7C",
-   "store": "dealforager",
-   "title": "SCHLAGE Front Door Handleset, Right Hand Accent Lever, Antique Brass",
-   "price": "73.45",
-   "old_price": "177.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/312ydMbgmhL.jpg",
-   "link": "https://www.amazon.com/dp/B004VFQP7C?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 1:06 PM",
-   "rating": 441459.0,
-   "savings": 58.0,
-   "price_diff": 104.54,
-   "ts": 1793819219
   },
   {
    "id": "df-B00OP65REY",
@@ -10881,22 +10961,6 @@
    "ts": 1793817516
   },
   {
-   "id": "df-B0FFNGC5X9",
-   "store": "dealforager",
-   "title": "OTOFLY Magnetic for iPhone 17 Pro Case,Compatible with Magsafe,Classic Liquid Silicone Mobile Phone Case,Integrated Camera Control Button,Anti-Scratch Microfiber Lining, Cloud Mauve",
-   "price": "4.77",
-   "old_price": "14.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31k6lOqklML.jpg",
-   "link": "https://www.amazon.com/dp/B0FFNGC5X9?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 12:38 PM",
-   "rating": 262558.0,
-   "savings": 68.0,
-   "price_diff": 10.22,
-   "ts": 1793817516
-  },
-  {
    "id": "df-B0FJS986QP",
    "store": "dealforager",
    "title": "Amazon Essentials Girls' Frill-Trimmed One Piece Swimsuit, Light Yellow, XX-Large",
@@ -10943,22 +11007,6 @@
    "savings": 76.0,
    "price_diff": 298.92,
    "ts": 1793817407
-  },
-  {
-   "id": "df-B0FF9LF2LW",
-   "store": "dealforager",
-   "title": "inewateri Compatible for iPhone 14 Plus Case with Cute Cheetah Leopard Print Retro Aesthetics Design Soft Slim TPU Shockproof Protective Bumper Glitter Shiny Phone Cover-Gold",
-   "price": "4.77",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51Z4Ta7-cuL.jpg",
-   "link": "https://www.amazon.com/dp/B0FF9LF2LW?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 12:35 PM",
-   "rating": 321820.0,
-   "savings": 52.0,
-   "price_diff": 5.22,
-   "ts": 1793817342
   },
   {
    "id": "df-B095KNYB17",
@@ -12097,22 +12145,6 @@
    "ts": 1793815214
   },
   {
-   "id": "df-B003XMPFNY",
-   "store": "dealforager",
-   "title": "Grandma's Secret Wrinkle Remover Spray - Easily Removes Wrinkles & Odors - Fabric Refresher Spray, Chlorine, Bleach and Toxin-Free – 3oz, 1 Pack",
-   "price": "3.99",
-   "old_price": "4.99",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B003XMPFNY?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 12:00 PM",
-   "rating": 133643.0,
-   "savings": 20.0,
-   "price_diff": 1.0,
-   "ts": 1793815203
-  },
-  {
    "id": "df-B00CAVP2GY",
    "store": "dealforager",
    "title": "Norton 48090 Sand Wet Sandpaper 220 Grit, 9-Inch x 11-Inch, 5-Pack",
@@ -12735,38 +12767,6 @@
    "savings": 25.0,
    "price_diff": 1.5,
    "ts": 1793808681
-  },
-  {
-   "id": "df-B0FR4NKD9T",
-   "store": "dealforager",
-   "title": "YENAPOON for iPhone 14 Pro Max Case, Matte Magnetic Phone Cover, Light Blue",
-   "price": "4.73",
-   "old_price": "6.49",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41bwoEm7diL.jpg",
-   "link": "https://www.amazon.com/dp/B0FR4NKD9T?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 10:08 AM",
-   "rating": 325138.0,
-   "savings": 27.0,
-   "price_diff": 1.76,
-   "ts": 1793808514
-  },
-  {
-   "id": "df-B0918T6R8B",
-   "store": "dealforager",
-   "title": "Amerock | Cabinet Pull | Brushed Gold/White | 10-1/16 inch (256 mm) Center to Center | Urbanite | 1 Pack | Drawer Pull | Drawer Handle | Cabinet Hardware",
-   "price": "4.11",
-   "old_price": "19.28",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/11FOGYFTnoL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0918T6R8B?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 9:48 AM",
-   "rating": 334499.0,
-   "savings": 78.0,
-   "price_diff": 15.17,
-   "ts": 1793807283
   },
   {
    "id": "df-B0G23MVRT4",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-05T07:08:07Z"
+ "updated": "2026-11-05T07:53:02Z"
 }
