@@ -1,6 +1,22 @@
 {
  "deals": [
   {
+   "id": "df-B0G4R42G95",
+   "store": "dealforager",
+   "title": "SunStory 3 in 1 Magnetic for iPhone 17 Air Case, Black",
+   "price": "4.75",
+   "old_price": "6.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/412jDkJVVbL.jpg",
+   "link": "https://www.amazon.com/dp/B0G4R42G95?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 12:25 AM",
+   "rating": 204456.0,
+   "savings": 32.0,
+   "price_diff": 2.24,
+   "ts": 1793859919
+  },
+  {
    "id": "df-B0F1MDQ5HQ",
    "store": "dealforager",
    "title": "CUZMIGO Liquid Silicone Case for Samsung Galaxy S25 Edge, Off White",
@@ -12751,22 +12767,6 @@
    "savings": 78.0,
    "price_diff": 15.17,
    "ts": 1793807283
-  },
-  {
-   "id": "df-B0G4R42G95",
-   "store": "dealforager",
-   "title": "SunStory 3 in 1 Magnetic for iPhone 17 Air Case, Black",
-   "price": "4.75",
-   "old_price": "6.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/412jDkJVVbL.jpg",
-   "link": "https://www.amazon.com/dp/B0G4R42G95?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 8:52 AM",
-   "rating": 204456.0,
-   "savings": 32.0,
-   "price_diff": 2.24,
-   "ts": 1793803949
   },
   {
    "id": "df-B0G23MVRT4",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-05T06:23:07Z"
+ "updated": "2026-11-05T06:46:08Z"
 }
