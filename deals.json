@@ -1,20 +1,132 @@
 {
  "deals": [
   {
-   "id": "df-B08KHSY54Y",
+   "id": "df-B09JSN4GC5",
    "store": "dealforager",
-   "title": "Ring Alarm Open Window Magnet (2nd Gen) | Secure Partially Open Windows | Enjoy Fresh Air While Protected | Ring Contact Sensor & Base Station Required",
-   "price": "3.99",
-   "old_price": "4.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/11nymD6fxdL.jpg",
-   "link": "https://www.amazon.com/dp/B08KHSY54Y?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "title": "USB Outlet Extender Surge Protector with Rotating Plug",
+   "price": "13.84",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41pc7xkweCL.jpg",
+   "link": "https://www.amazon.com/dp/B09JSN4GC5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/5, 2:33 AM",
+   "rating": 41686955.0,
+   "savings": 7.0,
+   "price_diff": 1.15,
+   "ts": 1793867591
+  },
+  {
+   "id": "df-B0FXKV4NCP",
+   "store": "dealforager",
+   "title": "Heavy-Duty Steel Folding Hand Truck, 180LB Capacity Dolly cart",
+   "price": "48.86",
+   "old_price": "59.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41U-NKhcepL.jpg",
+   "link": "https://www.amazon.com/dp/B0FXKV4NCP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/5, 2:22 AM",
+   "rating": 41789393.0,
+   "savings": 18.0,
+   "price_diff": 11.13,
+   "ts": 1793866964
+  },
+  {
+   "id": "df-B01MYPJ9J6",
+   "store": "dealforager",
+   "title": "NiceTQ Replacement US 2Prong AC Power Cord Cable For HP OfficeJet Pro 6978 8710 8720 Wireless All-in-One Photo Printer",
+   "price": "3.83",
+   "old_price": "4.79",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B01MYPJ9J6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
    "category": "under5",
    "badge": "",
-   "date": "11/5, 1:48 AM",
-   "rating": 226180.0,
+   "date": "11/5, 2:15 AM",
+   "rating": 284280.0,
    "savings": 20.0,
-   "price_diff": 1.0,
-   "ts": 1793864926
+   "price_diff": 0.96,
+   "ts": 1793866537
+  },
+  {
+   "id": "df-B0BHWCWPJ3",
+   "store": "dealforager",
+   "title": "GEOONA 2 pcs Marble Shower Corner Shelf for Bathroom, 9 Inch x 9Inch Gray Veins and Soft White Marble Corner Shelves for Bath Wall Mounted Both Side Polished",
+   "price": "48.02",
+   "old_price": "59.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21NqcHGI7+L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0BHWCWPJ3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/5, 2:02 AM",
+   "rating": 41621554.0,
+   "savings": 19.0,
+   "price_diff": 11.97,
+   "ts": 1793865744
+  },
+  {
+   "id": "df-B0B5KF974Q",
+   "store": "dealforager",
+   "title": "Xtreme Outdoor Power Equipment X0239 PTO Clutch Compatible with/Replacement for Exmark Lazer Z S, E and X Series, Serial No. 312,000 and Higher 109-9282, 116-1604, 116-1620, 5218-207",
+   "price": "32.19",
+   "old_price": "255.06",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41HRbw4BOdL.jpg",
+   "link": "https://www.amazon.com/dp/B0B5KF974Q?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/5, 1:59 AM",
+   "rating": 42045106.0,
+   "savings": 87.0,
+   "price_diff": 222.87,
+   "ts": 1793865551
+  },
+  {
+   "id": "df-B0DBPXWCYC",
+   "store": "dealforager",
+   "title": "MUMREUES Gold Earrings for Women Dainty Cross Stud Earrings Jewelry",
+   "price": "4.21",
+   "old_price": "5.00",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B0DBPXWCYC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:57 AM",
+   "rating": 218019.0,
+   "savings": 15.0,
+   "price_diff": 0.79,
+   "ts": 1793865446
+  },
+  {
+   "id": "df-B004499JLE",
+   "store": "dealforager",
+   "title": "Bernat Baby Blanket Yarn for Crocheting Soft, Baby Yellow",
+   "price": "3.75",
+   "old_price": "4.69",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B004499JLE?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 1:55 AM",
+   "rating": 200114.0,
+   "savings": 20.0,
+   "price_diff": 0.94,
+   "ts": 1793865338
+  },
+  {
+   "id": "df-B0BXXF77XD",
+   "store": "dealforager",
+   "title": "NICETOWN Blackout Curtains 90 inches Long for Bedroom - Grommet Light & Heat Blocking Window Treatments Soundproof Drapes for Living Room (2 Panels, W52 x L90, Cappuccino)",
+   "price": "15.82",
+   "old_price": "32.95",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41AsMKDv1ML._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0BXXF77XD?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/5, 1:53 AM",
+   "rating": 41788080.0,
+   "savings": 51.0,
+   "price_diff": 17.13,
+   "ts": 1793865213
   },
   {
    "id": "df-B0FKBLJ964",
@@ -785,22 +897,6 @@
    "ts": 1793849554
   },
   {
-   "id": "df-B0CG5X627G",
-   "store": "dealforager",
-   "title": "ELEHINSER 52\" Modern Ceiling Fan with Light and Remote Control, 5 Solid Wood Blades 6-Speed Noiseless Reversible DC Motor, for Bedroom Dinning Living Room, Gold Finish with Black Blades",
-   "price": "116.11",
-   "old_price": "299.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31O7mlRO+3L.jpg",
-   "link": "https://www.amazon.com/dp/B0CG5X627G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 9:31 PM",
-   "rating": 441699.0,
-   "savings": 61.0,
-   "price_diff": 183.88,
-   "ts": 1793849497
-  },
-  {
    "id": "df-B0C9LRX62X",
    "store": "dealforager",
    "title": "Boltigen 12inch Anti-Siphon Frost Free Sillcock, No Lead Brass Frost Proof Outdoor Faucet Bib with Backflow Preventer, 1/2\" Push-to-Fit Connector X 3/4 Inch Hose Bibb Frost Free Spigot",
@@ -1135,22 +1231,6 @@
    "savings": 17.0,
    "price_diff": 4.48,
    "ts": 1793848093
-  },
-  {
-   "id": "df-B0G1BGJGF1",
-   "store": "dealforager",
-   "title": "AFSEMOS Wabi Sabi Pendant Light, Adjustable Height Farmhouse Silk Chandelier, Modern Minimalist Sailboat Hanging Light Fixture for Living Room, Sofa, Dining Room, Bedroom, Kitchen Island (19.7 in)",
-   "price": "91.86",
-   "old_price": "249.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41fL1ZzgihL.jpg",
-   "link": "https://www.amazon.com/dp/B0G1BGJGF1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 9:04 PM",
-   "rating": 441723.0,
-   "savings": 63.0,
-   "price_diff": 158.13,
-   "ts": 1793847891
   },
   {
    "id": "df-B004ZL081Q",
@@ -1663,22 +1743,6 @@
    "savings": 20.0,
    "price_diff": 1.02,
    "ts": 1793845649
-  },
-  {
-   "id": "df-B0CQNXC183",
-   "store": "dealforager",
-   "title": "Tiamon 12 Pcs St. Patrick's Day Table Decorations Green Shamrock Honeycomb Centerpieces 3D Irish Clover Table Toppers Leprechaun Lucky Gnome Car Decor for St. Patrick's Day Party Favor Supplies Home",
-   "price": "4.62",
-   "old_price": "15.49",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/517TkznnIqL.jpg",
-   "link": "https://www.amazon.com/dp/B0CQNXC183?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 8:26 PM",
-   "rating": 278796.0,
-   "savings": 70.0,
-   "price_diff": 10.87,
-   "ts": 1793845618
   },
   {
    "id": "df-B0D17M8Q8Y",
@@ -2865,6 +2929,22 @@
    "ts": 1793840954
   },
   {
+   "id": "df-B0D8L1NLKT",
+   "store": "dealforager",
+   "title": "TOCOL for iPhone 16 Pro Case, Compatible with MagSafe, Gray",
+   "price": "4.39",
+   "old_price": "13.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/410lI+E24qL.jpg",
+   "link": "https://www.amazon.com/dp/B0D8L1NLKT?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 7:09 PM",
+   "rating": 262253.0,
+   "savings": 68.0,
+   "price_diff": 9.6,
+   "ts": 1793840951
+  },
+  {
    "id": "df-B0DGJPCHKG",
    "store": "dealforager",
    "title": "Ceaco - Disney Minnie Mouse Kind of Iconic - 100 Piece Puzzle for Kids 6+",
@@ -3295,22 +3375,6 @@
    "savings": 14.0,
    "price_diff": 7.1,
    "ts": 1793838997
-  },
-  {
-   "id": "df-B07R9DR4F3",
-   "store": "dealforager",
-   "title": "Globe Electric 51415 Camden 5-Piece All-in-One Bathroom Set, 3 Vanity Light with Seeded Glass Shades, Bar, Towel Ring, Robe Hook, Toilet Paper Holder, Bronze",
-   "price": "34.27",
-   "old_price": "96.44",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41P-TYAH2PL.jpg",
-   "link": "https://www.amazon.com/dp/B07R9DR4F3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 6:36 PM",
-   "rating": 441501.0,
-   "savings": 64.0,
-   "price_diff": 62.17,
-   "ts": 1793838995
   },
   {
    "id": "df-B07QQ2MPXS",
@@ -4207,22 +4271,6 @@
    "savings": 20.0,
    "price_diff": 0.9,
    "ts": 1793835675
-  },
-  {
-   "id": "df-B095VMH7FY",
-   "store": "dealforager",
-   "title": "SpringSpray 1 Inch Fire Hose Nozzle Thermoplastic NH/NST 1\" Fire Nozzles",
-   "price": "3.99",
-   "old_price": "12.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41k8ig3FK7L.jpg",
-   "link": "https://www.amazon.com/dp/B095VMH7FY?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 5:38 PM",
-   "rating": 335066.0,
-   "savings": 69.0,
-   "price_diff": 9.0,
-   "ts": 1793835502
   },
   {
    "id": "df-B094V5ZLBH",
@@ -5393,6 +5441,22 @@
    "ts": 1793831418
   },
   {
+   "id": "df-B0DLJY82VN",
+   "store": "dealforager",
+   "title": "Nonional Compatible for iPhone 13 Case with 2 Pack Screen Protector, 360° Rotatable Ring Holder [Luxury Hearts Pattern] Plating Gold Edge Slim Soft Phone Cover Case for iPhone 13 - Purple",
+   "price": "4.71",
+   "old_price": "12.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51FyAUCAmFL.jpg",
+   "link": "https://www.amazon.com/dp/B0DLJY82VN?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/4, 4:29 PM",
+   "rating": 257838.0,
+   "savings": 63.0,
+   "price_diff": 8.28,
+   "ts": 1793831397
+  },
+  {
    "id": "df-B000BUU5T0",
    "store": "dealforager",
    "title": "Camco Dual Flush Camper & RV Holding Tank Rinser - Features 2-Way Jet Cleaning Action That Helps Reduce Odors and Malfunctions in RV Holding Tanks and Hoses - RV Black Tank Cleaner (39072)",
@@ -5918,22 +5982,6 @@
    "rating": 335431.0,
    "savings": 38.0,
    "price_diff": 2.69,
-   "ts": 1793829968
-  },
-  {
-   "id": "df-B0FKMQBJJN",
-   "store": "dealforager",
-   "title": "jaroco Magnetic for iPhone 18 Pro Case/iPhone 17 Pro Case Pink",
-   "price": "4.77",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41AQB3tvUvL.jpg",
-   "link": "https://www.amazon.com/dp/B0FKMQBJJN?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 4:06 PM",
-   "rating": 298937.0,
-   "savings": 52.0,
-   "price_diff": 5.22,
    "ts": 1793829968
   },
   {
@@ -8351,22 +8399,6 @@
    "savings": 47.0,
    "price_diff": 4.28,
    "ts": 1793823878
-  },
-  {
-   "id": "df-B0FVM7XNXM",
-   "store": "dealforager",
-   "title": "Lanhiem for Samsung Galaxy S25 FE Case, IP68 Waterproof Dustproof with Built-in Screen Protector, Heavy Duty Full Body Protective Phone Case for Galaxy S25FE 5G 6.7 Inch, Navy Blue",
-   "price": "4.77",
-   "old_price": "23.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41mJAZ-cxJL.jpg",
-   "link": "https://www.amazon.com/dp/B0FVM7XNXM?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/4, 2:23 PM",
-   "rating": 273833.0,
-   "savings": 80.0,
-   "price_diff": 19.22,
-   "ts": 1793823835
   },
   {
    "id": "df-B07QH32P4V",
@@ -12719,38 +12751,6 @@
    "savings": 75.0,
    "price_diff": 221.83,
    "ts": 1793813310
-  },
-  {
-   "id": "df-B09JSN4GC5",
-   "store": "dealforager",
-   "title": "USB Outlet Extender Surge Protector with Rotating Plug",
-   "price": "13.84",
-   "old_price": "14.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41pc7xkweCL.jpg",
-   "link": "https://www.amazon.com/dp/B09JSN4GC5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "electronics",
-   "badge": "",
-   "date": "11/4, 11:00 AM",
-   "rating": 41686955.0,
-   "savings": 7.0,
-   "price_diff": 1.15,
-   "ts": 1793811618
-  },
-  {
-   "id": "df-B0BHWCWPJ3",
-   "store": "dealforager",
-   "title": "GEOONA 2 pcs Marble Shower Corner Shelf for Bathroom, 9 Inch x 9Inch Gray Veins and Soft White Marble Corner Shelves for Bath Wall Mounted Both Side Polished",
-   "price": "48.02",
-   "old_price": "59.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/21NqcHGI7+L._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0BHWCWPJ3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/4, 10:28 AM",
-   "rating": 41621554.0,
-   "savings": 19.0,
-   "price_diff": 11.97,
-   "ts": 1793809681
   },
   {
    "id": "df-B0DLKGWYNY",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-05T07:53:02Z"
+ "updated": "2026-11-05T08:38:02Z"
 }
