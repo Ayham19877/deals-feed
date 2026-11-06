@@ -1,6 +1,150 @@
 {
  "deals": [
   {
+   "id": "df-B0GLGJSLFL",
+   "store": "dealforager",
+   "title": "for Samsung Galaxy S25 Ultra Case,Fit for Magsafe,Rugged,Shockproof,Blue",
+   "price": "3.11",
+   "old_price": "4.00",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B0GLGJSLFL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 6:14 PM",
+   "rating": 238179.0,
+   "savings": 22.0,
+   "price_diff": 0.89,
+   "ts": 1793924071
+  },
+  {
+   "id": "df-B0GKGM5JQB",
+   "store": "dealforager",
+   "title": "Frienda Set of 4 Rectangle Scalloped Placemat with Ruffle, 13.8x17.7 Inch Washable Machine Cotton Flower Table Mats for Dining Restaurant Kitchen Table Home Decor(Brown)",
+   "price": "3.71",
+   "old_price": "4.99",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B0GKGM5JQB?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 6:13 PM",
+   "rating": 257128.0,
+   "savings": 25.0,
+   "price_diff": 1.28,
+   "ts": 1793924036
+  },
+  {
+   "id": "df-B0CKNDYBF3",
+   "store": "dealforager",
+   "title": "MALORY Brass Top Cover Landscape Well Lights, (6''H) 12V Low Voltage Outdoor In Ground Lights,Anti-Glare Waterproof Landscape Lighting for Pathway, Driveway (Shield Top, 10-Pack Without Bulb)",
+   "price": "173.31",
+   "old_price": "479.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31c4RFm7eoL.jpg",
+   "link": "https://www.amazon.com/dp/B0CKNDYBF3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/5, 6:11 PM",
+   "rating": 447691.0,
+   "savings": 63.0,
+   "price_diff": 306.68,
+   "ts": 1793923889
+  },
+  {
+   "id": "df-B09L5BG54X",
+   "store": "dealforager",
+   "title": "Amerock 5-1/16\" Bar Pulls Champagne Bronze Drawer Pull",
+   "price": "2.84",
+   "old_price": "3.87",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21+K9PQxClL.jpg",
+   "link": "https://www.amazon.com/dp/B09L5BG54X?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 6:04 PM",
+   "rating": 262130.0,
+   "savings": 26.0,
+   "price_diff": 1.03,
+   "ts": 1793923471
+  },
+  {
+   "id": "df-B09JSN4GC5",
+   "store": "dealforager",
+   "title": "USB Outlet Extender Surge Protector with Rotating Plug",
+   "price": "13.84",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41pc7xkweCL.jpg",
+   "link": "https://www.amazon.com/dp/B09JSN4GC5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/5, 6:04 PM",
+   "rating": 41686955.0,
+   "savings": 7.0,
+   "price_diff": 1.15,
+   "ts": 1793923463
+  },
+  {
+   "id": "df-B0FXKV4NCP",
+   "store": "dealforager",
+   "title": "Heavy-Duty Steel Folding Hand Truck, 180LB Capacity Dolly cart",
+   "price": "48.86",
+   "old_price": "59.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41U-NKhcepL.jpg",
+   "link": "https://www.amazon.com/dp/B0FXKV4NCP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/5, 5:53 PM",
+   "rating": 41789393.0,
+   "savings": 18.0,
+   "price_diff": 11.13,
+   "ts": 1793922835
+  },
+  {
+   "id": "df-B01MYPJ9J6",
+   "store": "dealforager",
+   "title": "NiceTQ Replacement US 2Prong AC Power Cord Cable For HP OfficeJet Pro 6978 8710 8720 Wireless All-in-One Photo Printer",
+   "price": "3.83",
+   "old_price": "4.79",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B01MYPJ9J6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 5:46 PM",
+   "rating": 269738.0,
+   "savings": 20.0,
+   "price_diff": 0.96,
+   "ts": 1793922407
+  },
+  {
+   "id": "df-B0CDLWDP8L",
+   "store": "dealforager",
+   "title": "Fenmzee Pink Bedside Lamp for Bedroom, Dimmable Touch, USB A+C, AC Outlet",
+   "price": "23.57",
+   "old_price": "29.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41ThEowBz+L.jpg",
+   "link": "https://www.amazon.com/dp/B0CDLWDP8L?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/5, 5:40 PM",
+   "rating": 41802737.0,
+   "savings": 21.0,
+   "price_diff": 6.42,
+   "ts": 1793922026
+  },
+  {
+   "id": "df-B0CSZCPB1T",
+   "store": "dealforager",
+   "title": "NEOGEO Pocket Color Selection Vol. 2 Steelbook Bundle - Nintendo Switch",
+   "price": "30.18",
+   "old_price": "59.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51k9OIRJUwL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0CSZCPB1T?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/5, 5:39 PM",
+   "rating": 41868541.0,
+   "savings": 49.0,
+   "price_diff": 29.81,
+   "ts": 1793921971
+  },
+  {
    "id": "df-B0BHWCWPJ3",
    "store": "dealforager",
    "title": "GEOONA 2 pcs Marble Shower Corner Shelf for Bathroom, 9 Inch x 9Inch Gray Veins and Soft White Marble Corner Shelves for Bath Wall Mounted Both Side Polished",
@@ -305,6 +449,38 @@
    "ts": 1793915627
   },
   {
+   "id": "df-B0DXV6L8V4",
+   "store": "dealforager",
+   "title": "Dumkery Cute Case Compatible with Samsung Galaxy S23 Case, Aesthetic Black Line Art Floral Rose Pattern Print, PC Military Grade Protection Shockproof Cases Cover Skin for Girls Women",
+   "price": "4.73",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41-GqTo1-zL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DXV6L8V4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 3:53 PM",
+   "rating": 190050.0,
+   "savings": 21.0,
+   "price_diff": 1.26,
+   "ts": 1793915614
+  },
+  {
+   "id": "df-B0DT3T118F",
+   "store": "dealforager",
+   "title": "Temdan for iPhone 12/12PRO Case with Screen Protector Clear",
+   "price": "4.73",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41Z5NXsT7OL.jpg",
+   "link": "https://www.amazon.com/dp/B0DT3T118F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 3:40 PM",
+   "rating": 190083.0,
+   "savings": 21.0,
+   "price_diff": 1.26,
+   "ts": 1793914815
+  },
+  {
    "id": "df-B0FSJHRGMQ",
    "store": "dealforager",
    "title": "Yeddabox for iPhone 17 Pro Case Cute Polka Dot Phone Case Soft TPU Slim Shockproof Phone Cover for Women Girls,Brown",
@@ -335,6 +511,22 @@
    "savings": 30.0,
    "price_diff": 18.25,
    "ts": 1793914341
+  },
+  {
+   "id": "df-B0DK1G2MZG",
+   "store": "dealforager",
+   "title": "FNTCASE for Samsung Galaxy S25 Case: Black Non Slip Textured",
+   "price": "4.73",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41CCJtq1jQL.jpg",
+   "link": "https://www.amazon.com/dp/B0DK1G2MZG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 3:29 PM",
+   "rating": 190073.0,
+   "savings": 21.0,
+   "price_diff": 1.26,
+   "ts": 1793914176
   },
   {
    "id": "df-B0FGJ7FMHN",
@@ -383,6 +575,22 @@
    "savings": 65.0,
    "price_diff": 98.94,
    "ts": 1793913296
+  },
+  {
+   "id": "df-B0DLX3SYLP",
+   "store": "dealforager",
+   "title": "uniball™ Zento Gel Pens, Black Ink, 0.7mm Medium Point, 4 Count",
+   "price": "4.73",
+   "old_price": "5.29",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31ebeMfZ3cL.jpg",
+   "link": "https://www.amazon.com/dp/B0DLX3SYLP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 3:11 PM",
+   "rating": 240370.0,
+   "savings": 10.0,
+   "price_diff": 0.56,
+   "ts": 1793913111
   },
   {
    "id": "df-B00DFM4N2G",
@@ -495,22 +703,6 @@
    "savings": 24.0,
    "price_diff": 1.49,
    "ts": 1793911013
-  },
-  {
-   "id": "df-B0DCZDCN8F",
-   "store": "dealforager",
-   "title": "Lovmooful for iPhone 13 Mini Case Cute Flower Floral with Black Design-Rose",
-   "price": "4.66",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41nU+409y3L.jpg",
-   "link": "https://www.amazon.com/dp/B0DCZDCN8F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 2:30 PM",
-   "rating": 315440.0,
-   "savings": 53.0,
-   "price_diff": 5.33,
-   "ts": 1793910600
   },
   {
    "id": "df-B0G43GHQW1",
@@ -945,22 +1137,6 @@
    "ts": 1793905916
   },
   {
-   "id": "df-B0DNKLM12P",
-   "store": "dealforager",
-   "title": "Northwest Phoenix Suns NBA Hussle Micro Fiber Sports Towel 24 x 42 Inches",
-   "price": "4.66",
-   "old_price": "5.53",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41TgEps3psL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DNKLM12P?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 1:11 PM",
-   "rating": 196692.0,
-   "savings": 15.0,
-   "price_diff": 0.87,
-   "ts": 1793905878
-  },
-  {
    "id": "df-B000NDBIQ4",
    "store": "dealforager",
    "title": "Grote 24 VOLT BULB",
@@ -1057,22 +1233,6 @@
    "ts": 1793905318
   },
   {
-   "id": "df-B0CG5X627G",
-   "store": "dealforager",
-   "title": "ELEHINSER 52\" Modern Ceiling Fan with Light and Remote Control, 5 Solid Wood Blades 6-Speed Noiseless Reversible DC Motor, for Bedroom Dinning Living Room, Gold Finish with Black Blades",
-   "price": "116.11",
-   "old_price": "299.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31O7mlRO+3L.jpg",
-   "link": "https://www.amazon.com/dp/B0CG5X627G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/5, 1:01 PM",
-   "rating": 441699.0,
-   "savings": 61.0,
-   "price_diff": 183.88,
-   "ts": 1793905267
-  },
-  {
    "id": "df-B0C9LRX62X",
    "store": "dealforager",
    "title": "Boltigen 12inch Anti-Siphon Frost Free Sillcock, No Lead Brass Frost Proof Outdoor Faucet Bib with Backflow Preventer, 1/2\" Push-to-Fit Connector X 3/4 Inch Hose Bibb Frost Free Spigot",
@@ -1135,22 +1295,6 @@
    "savings": 13.0,
    "price_diff": 6.03,
    "ts": 1793904925
-  },
-  {
-   "id": "df-B09L59TX6N",
-   "store": "dealforager",
-   "title": "Amerock 7-9/16\" Bar Pulls Champagne Bronze Drawer Pull",
-   "price": "4.44",
-   "old_price": "5.21",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/21fq7SrnCAL.jpg",
-   "link": "https://www.amazon.com/dp/B09L59TX6N?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 12:54 PM",
-   "rating": 215354.0,
-   "savings": 14.0,
-   "price_diff": 0.77,
-   "ts": 1793904865
   },
   {
    "id": "df-B07STXMC3L",
@@ -1233,6 +1377,22 @@
    "ts": 1793904721
   },
   {
+   "id": "df-B0BRKT2H7P",
+   "store": "dealforager",
+   "title": "PEDVSTY Large Floating Waterproof Phone Pouch [with Sealing Strip] Black",
+   "price": "4.73",
+   "old_price": "13.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41hLiYFY6YL.jpg",
+   "link": "https://www.amazon.com/dp/B0BRKT2H7P?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 12:51 PM",
+   "rating": 260623.0,
+   "savings": 66.0,
+   "price_diff": 9.26,
+   "ts": 1793904698
+  },
+  {
    "id": "df-B0GSZNB63F",
    "store": "dealforager",
    "title": "Tvalccoy Silicone Ear Gauges Tunnels for Ears Men Women Stretching Kit 00 00g 0g 2g Plugs",
@@ -1295,6 +1455,22 @@
    "savings": 82.0,
    "price_diff": 19.71,
    "ts": 1793904332
+  },
+  {
+   "id": "df-B0D25TFN3Y",
+   "store": "dealforager",
+   "title": "70 Years Loved Waterproof Phone Pouch, Durable Multilayer IPX8 Protection Water Proof Phone Case Touchscreen Access and fit up to 8.3 inches，Cruise Essentials for Beach and Pool（Multicolor 3）",
+   "price": "4.73",
+   "old_price": "5.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51GG-d9YgAL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0D25TFN3Y?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 12:45 PM",
+   "rating": 234343.0,
+   "savings": 21.0,
+   "price_diff": 1.26,
+   "ts": 1793904318
   },
   {
    "id": "df-B0F5QKWDV5",
@@ -1375,22 +1551,6 @@
    "savings": 17.0,
    "price_diff": 4.48,
    "ts": 1793903905
-  },
-  {
-   "id": "df-B0G1BGJGF1",
-   "store": "dealforager",
-   "title": "AFSEMOS Wabi Sabi Pendant Light, Adjustable Height Farmhouse Silk Chandelier, Modern Minimalist Sailboat Hanging Light Fixture for Living Room, Sofa, Dining Room, Bedroom, Kitchen Island (19.7 in)",
-   "price": "91.86",
-   "old_price": "249.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41fL1ZzgihL.jpg",
-   "link": "https://www.amazon.com/dp/B0G1BGJGF1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/5, 12:35 PM",
-   "rating": 441723.0,
-   "savings": 63.0,
-   "price_diff": 158.13,
-   "ts": 1793903703
   },
   {
    "id": "df-B004ZL081Q",
@@ -1793,6 +1953,22 @@
    "ts": 1793902018
   },
   {
+   "id": "df-B0FH4PZB4V",
+   "store": "dealforager",
+   "title": "FNTCASE for iPhone 13 Pro-Max Case Compatible with Magsafe Clear Phonecase",
+   "price": "4.73",
+   "old_price": "11.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41dB6xcbz2L.jpg",
+   "link": "https://www.amazon.com/dp/B0FH4PZB4V?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 12:05 PM",
+   "rating": 255141.0,
+   "savings": 60.0,
+   "price_diff": 7.26,
+   "ts": 1793901934
+  },
+  {
    "id": "df-B000H6QQL4",
    "store": "dealforager",
    "title": "Snazaroo Metallic Face and Body Paint, 18.8g Pot, Electric Purple",
@@ -1903,6 +2079,22 @@
    "savings": 19.0,
    "price_diff": 19.46,
    "ts": 1793901257
+  },
+  {
+   "id": "df-B0BWSF349F",
+   "store": "dealforager",
+   "title": "Blink Silicone Skin for Outdoor 4 Smart Security Camera – Glacier",
+   "price": "4.73",
+   "old_price": "7.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21jerUCSr+L.jpg",
+   "link": "https://www.amazon.com/dp/B0BWSF349F?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 11:52 AM",
+   "rating": 280163.0,
+   "savings": 40.0,
+   "price_diff": 3.26,
+   "ts": 1793901149
   },
   {
    "id": "df-B08562CLBX",
@@ -2337,22 +2529,6 @@
    "ts": 1793899140
   },
   {
-   "id": "df-B0FKT1FXGG",
-   "store": "dealforager",
-   "title": "Usroom for iPhone 18 Pro Max/17 Pro Max Wallet Case Compatible with Magsafe",
-   "price": "4.44",
-   "old_price": "24.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51w3AbqJHEL.jpg",
-   "link": "https://www.amazon.com/dp/B0FKT1FXGG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 11:17 AM",
-   "rating": 350495.0,
-   "savings": 82.0,
-   "price_diff": 20.55,
-   "ts": 1793899077
-  },
-  {
    "id": "df-B0F6CVDKKV",
    "store": "dealforager",
    "title": "YSBJKWCF Race Car Themed Happy Birthday Banner Balloon – Black and White Checkered Racing Party Decorations, Indoor & Outdoor Supplies",
@@ -2593,20 +2769,20 @@
    "ts": 1793898194
   },
   {
-   "id": "df-B0BX2YX8KF",
+   "id": "df-B0BK85CNBX",
    "store": "dealforager",
-   "title": "JETech Matte Case for iPhone 12/12 Pro, Black",
-   "price": "4.66",
-   "old_price": "11.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41-1CrhG-3L.jpg",
-   "link": "https://www.amazon.com/dp/B0BX2YX8KF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "title": "Nvollnoe for iPhone 14 Pro Case with Card Holder Purple",
+   "price": "4.73",
+   "old_price": "14.39",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/410MuF9LilL.jpg",
+   "link": "https://www.amazon.com/dp/B0BK85CNBX?tag=dealforager-20&linkCode=osi&th=1&psc=1",
    "category": "under5",
    "badge": "",
    "date": "11/5, 11:02 AM",
-   "rating": 329178.0,
-   "savings": 61.0,
-   "price_diff": 7.33,
-   "ts": 1793898137
+   "rating": 336562.0,
+   "savings": 67.0,
+   "price_diff": 9.66,
+   "ts": 1793898120
   },
   {
    "id": "df-B0GWKZZVGZ",
@@ -3153,22 +3329,6 @@
    "ts": 1793896110
   },
   {
-   "id": "df-B0C7KNS9B1",
-   "store": "dealforager",
-   "title": "Colorfast FOIL Fringe Curtain Backdrop for Birthday, Graduation Celebration, Bachelorette, Valentines Party Celebration, Event Decoration (Color may vary)",
-   "price": "4.44",
-   "old_price": "11.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51fiR8Vd3LL.jpg",
-   "link": "https://www.amazon.com/dp/B0C7KNS9B1?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 10:26 AM",
-   "rating": 370356.0,
-   "savings": 62.0,
-   "price_diff": 7.54,
-   "ts": 1793895992
-  },
-  {
    "id": "df-B0F4KQDDPF",
    "store": "dealforager",
    "title": "TERLEENART Hard Wired Rattan Pendant Lights Set of 2,Boho Wicker Chandelier with 9.84” Dome Shade, Basket Hand Woven Hanging Lamp for Coastal Kitchen Island Dining Room Living Room Bar Foyer Hallway",
@@ -3311,22 +3471,6 @@
    "savings": 21.0,
    "price_diff": 11.93,
    "ts": 1793895673
-  },
-  {
-   "id": "df-B07R9DR4F3",
-   "store": "dealforager",
-   "title": "Globe Electric 51415 Camden 5-Piece All-in-One Bathroom Set, 3 Vanity Light with Seeded Glass Shades, Bar, Towel Ring, Robe Hook, Toilet Paper Holder, Bronze",
-   "price": "34.27",
-   "old_price": "96.44",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41P-TYAH2PL.jpg",
-   "link": "https://www.amazon.com/dp/B07R9DR4F3?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/5, 10:21 AM",
-   "rating": 441501.0,
-   "savings": 64.0,
-   "price_diff": 62.17,
-   "ts": 1793895666
   },
   {
    "id": "df-B0F8V4F74Z",
@@ -3487,22 +3631,6 @@
    "savings": 8.0,
    "price_diff": 2.27,
    "ts": 1793894542
-  },
-  {
-   "id": "df-B07DL96BBZ",
-   "store": "dealforager",
-   "title": "SWEES Leather Band Compatible for Apple Watch 42mm 44mm 45mm, Genuine Leather Replacement Wristband Strap Compatible iWatch Series 7 6 5 4 3 2 1 SE Sports & Edition Men And Women, Lichee Black",
-   "price": "4.75",
-   "old_price": "13.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51lxBntw5aL.jpg",
-   "link": "https://www.amazon.com/dp/B07DL96BBZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 10:02 AM",
-   "rating": 260173.0,
-   "savings": 66.0,
-   "price_diff": 9.24,
-   "ts": 1793894535
   },
   {
    "id": "df-B008JCHV9Y",
@@ -3857,6 +3985,22 @@
    "ts": 1793893219
   },
   {
+   "id": "df-B0D4QVL6FS",
+   "store": "dealforager",
+   "title": "COOLQO Magnetic for iPhone 14/15 Plus Case, Dual Layer Matte Scratch-Resistant, Pink",
+   "price": "4.73",
+   "old_price": "16.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41J6uWOGdKL.jpg",
+   "link": "https://www.amazon.com/dp/B0D4QVL6FS?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 9:40 AM",
+   "rating": 253159.0,
+   "savings": 72.0,
+   "price_diff": 12.26,
+   "ts": 1793893208
+  },
+  {
    "id": "df-B0CSMQ5XDP",
    "store": "dealforager",
    "title": "Robotics Science Kits for Kids Crafts Age 8-12, STEM Building Toys 8-13",
@@ -3887,6 +4031,22 @@
    "savings": 79.0,
    "price_diff": 164.73,
    "ts": 1793893092
+  },
+  {
+   "id": "df-B0C7HK3VVL",
+   "store": "dealforager",
+   "title": "Smartish iPhone 15 Plus Clear Case MagSafe, Gripmunk, Slim Grip",
+   "price": "4.73",
+   "old_price": "19.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/413+Y-pxeEL.jpg",
+   "link": "https://www.amazon.com/dp/B0C7HK3VVL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 9:37 AM",
+   "rating": 269869.0,
+   "savings": 76.0,
+   "price_diff": 15.26,
+   "ts": 1793893077
   },
   {
    "id": "df-B09R72YWGQ",
@@ -4049,22 +4209,6 @@
    "ts": 1793892700
   },
   {
-   "id": "df-B07ZG6484X",
-   "store": "dealforager",
-   "title": "Scosche CCB1-SP Strikeline Premium USB-C to USB-C Charge & Sync Braided Cable 1-ft. Black",
-   "price": "4.66",
-   "old_price": "10.79",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31c0+0wupWL.jpg",
-   "link": "https://www.amazon.com/dp/B07ZG6484X?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 9:30 AM",
-   "rating": 363397.0,
-   "savings": 56.0,
-   "price_diff": 6.13,
-   "ts": 1793892637
-  },
-  {
    "id": "df-B07YVT88JC",
    "store": "dealforager",
    "title": "Dr. Scholl's Shoes Women's Webster Slip On Loafer, Black, 10 Wide US",
@@ -4225,6 +4369,22 @@
    "ts": 1793892146
   },
   {
+   "id": "df-B007SNUJEY",
+   "store": "dealforager",
+   "title": "Bell Standard Bicycle Inner Tube, 700 x 35/43c, Presta Valve",
+   "price": "4.63",
+   "old_price": "10.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41WHLNJx2GL.jpg",
+   "link": "https://www.amazon.com/dp/B007SNUJEY?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 9:21 AM",
+   "rating": 387206.0,
+   "savings": 57.0,
+   "price_diff": 6.36,
+   "ts": 1793892062
+  },
+  {
    "id": "df-B0CXPXN8NC",
    "store": "dealforager",
    "title": "Firtstnow [3+3 Pack] for Samsung Galaxy S24 Ultra Screen Protector, 9H Tempered Glass, Ultrasonic Fingerprint Compatible, HD Clear Case Friendly for Samsung S24 Ultra Glass Screen Protector 5G",
@@ -4287,22 +4447,6 @@
    "savings": 49.0,
    "price_diff": 4.43,
    "ts": 1793891933
-  },
-  {
-   "id": "df-B0DFCK2PDP",
-   "store": "dealforager",
-   "title": "Mobnano for iPhone 14 Case/iPhone 13 Case, Compatible with MagSafe, Crystal Clear Case w/Magnetic Ring, Multicolor Protective Shockproof Bumpers, Not Yellowing Slim Cover for Men Women (Red/Black)",
-   "price": "4.01",
-   "old_price": "19.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41ka9GeKkdL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DFCK2PDP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 9:17 AM",
-   "rating": 271815.0,
-   "savings": 79.0,
-   "price_diff": 15.98,
-   "ts": 1793891826
   },
   {
    "id": "df-B0F3HQQMYD",
@@ -4801,22 +4945,6 @@
    "ts": 1793889426
   },
   {
-   "id": "df-B0DXKGSSP6",
-   "store": "dealforager",
-   "title": "Liufcx for Motorola Moto G Power 5G 2025/2026 Cute Phone Case,Pink",
-   "price": "4.66",
-   "old_price": "9.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51n6F-MSC0L.jpg",
-   "link": "https://www.amazon.com/dp/B0DXKGSSP6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 8:34 AM",
-   "rating": 321352.0,
-   "savings": 53.0,
-   "price_diff": 5.32,
-   "ts": 1793889265
-  },
-  {
    "id": "df-B00MKTAQIA",
    "store": "dealforager",
    "title": "Minka Lavery 1894-894 Millikan Pendant, 15 B10.5 E12 Socket(s), Signature Brass (Bulbs Not Included)",
@@ -4847,6 +4975,22 @@
    "savings": 70.0,
    "price_diff": 10.5,
    "ts": 1793889078
+  },
+  {
+   "id": "df-B0F9FGJ4JF",
+   "store": "dealforager",
+   "title": "inewateri Compatible for iPhone 16 Pro Case with Cute Cheetah Leopard Print Retro Aesthetics Design Soft Slim TPU Shockproof Protective Bumper Glitter Shiny Phone Cover-Gold",
+   "price": "4.73",
+   "old_price": "9.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51Z4Ta7-cuL.jpg",
+   "link": "https://www.amazon.com/dp/B0F9FGJ4JF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 8:30 AM",
+   "rating": 246838.0,
+   "savings": 52.0,
+   "price_diff": 5.26,
+   "ts": 1793889002
   },
   {
    "id": "df-B0F6WCLBVV",
@@ -5985,22 +6129,6 @@
    "ts": 1793886133
   },
   {
-   "id": "df-B0BR8L22Z4",
-   "store": "dealforager",
-   "title": "Case-Mate IP68 Waterproof Phone Pouch - Sand Dollar",
-   "price": "4.66",
-   "old_price": "14.90",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41yIrynvYAL.jpg",
-   "link": "https://www.amazon.com/dp/B0BR8L22Z4?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 7:40 AM",
-   "rating": 325116.0,
-   "savings": 68.0,
-   "price_diff": 10.24,
-   "ts": 1793886043
-  },
-  {
    "id": "df-B0CS6PBTBD",
    "store": "dealforager",
    "title": "Engine Splash Shield Guard Compatible with Honda CR-V CRV EX EX-L 1.5L 2017-2022 Under Car Splash Shield Lower Cover Board Replace #74112TLAA01 74112-TLA-A01",
@@ -6127,22 +6255,6 @@
    "savings": 52.0,
    "price_diff": 5.22,
    "ts": 1793885556
-  },
-  {
-   "id": "df-B0FDGTKX2Z",
-   "store": "dealforager",
-   "title": "Longlayss Compatible with iPhone 16 Plus Case Cute Striped Phone Case",
-   "price": "4.66",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41og9-j6DxL.jpg",
-   "link": "https://www.amazon.com/dp/B0FDGTKX2Z?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 7:31 AM",
-   "rating": 322860.0,
-   "savings": 53.0,
-   "price_diff": 5.33,
-   "ts": 1793885481
   },
   {
    "id": "df-B0F8TCTBNG",
@@ -6287,6 +6399,22 @@
    "savings": 83.0,
    "price_diff": 91.97,
    "ts": 1793885315
+  },
+  {
+   "id": "df-B09MHF7SN6",
+   "store": "dealforager",
+   "title": "Lovoir 40 Inch Large Gold Letter U Balloons Big Size Jumbo Mylar Foil Helium Balloon for Birthday Party Celebration Decorations Alphabet Gold U",
+   "price": "4.43",
+   "old_price": "5.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51BGTTdCEFL.jpg",
+   "link": "https://www.amazon.com/dp/B09MHF7SN6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 7:27 AM",
+   "rating": 204720.0,
+   "savings": 25.0,
+   "price_diff": 1.55,
+   "ts": 1793885257
   },
   {
    "id": "df-B0F19CG3TW",
@@ -7153,22 +7281,6 @@
    "ts": 1793883361
   },
   {
-   "id": "df-B0FLJZ87SX",
-   "store": "dealforager",
-   "title": "FNTCASE for Google Pixel 10 Pro Fold Case, Fit for Magsafe, Blue",
-   "price": "4.66",
-   "old_price": "18.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41JGvjhJQfL.jpg",
-   "link": "https://www.amazon.com/dp/B0FLJZ87SX?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 6:54 AM",
-   "rating": 268932.0,
-   "savings": 75.0,
-   "price_diff": 14.33,
-   "ts": 1793883279
-  },
-  {
    "id": "df-B0DPGRX3MS",
    "store": "dealforager",
    "title": "PHILIPS 8K DisplayPort Cable, 6 Ft Long Cord, 8K@60Hz",
@@ -7391,22 +7503,6 @@
    "savings": 59.0,
    "price_diff": 5.99,
    "ts": 1793882790
-  },
-  {
-   "id": "df-B0CY8K4YCC",
-   "store": "dealforager",
-   "title": "saputu Magnetic for iPhone 14 Pro Max Case,Compatible with MagSafe，[Military-Grade Drop Protection] Crystal Clear Back Case for iPhone 14 Pro Max Phone Case 6.7\" (Sky Blue)",
-   "price": "4.44",
-   "old_price": "12.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41UwnNisghL.jpg",
-   "link": "https://www.amazon.com/dp/B0CY8K4YCC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 6:44 AM",
-   "rating": 329401.0,
-   "savings": 65.0,
-   "price_diff": 8.55,
-   "ts": 1793882661
   },
   {
    "id": "df-B0DKRVT95K",
@@ -7966,6 +8062,22 @@
    "rating": 41781023.0,
    "savings": 16.0,
    "price_diff": 3.14,
+   "ts": 1793881114
+  },
+  {
+   "id": "df-B0D2HHZCHL",
+   "store": "dealforager",
+   "title": "Vinich for iPhone 11 Wallet Case with Card Holder, Black",
+   "price": "4.73",
+   "old_price": "18.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/510-PZRBMaL.jpg",
+   "link": "https://www.amazon.com/dp/B0D2HHZCHL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 6:18 AM",
+   "rating": 343894.0,
+   "savings": 75.0,
+   "price_diff": 14.26,
    "ts": 1793881114
   },
   {
@@ -8833,22 +8945,6 @@
    "ts": 1793878392
   },
   {
-   "id": "df-B0F3D2L169",
-   "store": "dealforager",
-   "title": "Mobnano for iPhone 16 Pro Max Case, Compatible with MagSafe, Crystal Clear Case with Magnetic Ring, Multicolor Protective Shockproof Bumpers, Not Yellowing Slim Cover for Men Women - Black/Red",
-   "price": "4.01",
-   "old_price": "19.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/414-acMIUGL.jpg",
-   "link": "https://www.amazon.com/dp/B0F3D2L169?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 5:32 AM",
-   "rating": 271814.0,
-   "savings": 79.0,
-   "price_diff": 15.98,
-   "ts": 1793878378
-  },
-  {
    "id": "df-B0DMNK77WH",
    "store": "dealforager",
    "title": "Weycolor for Samsung Galaxy S25 Case with Camera Lens Cover, HD Screen Protector, 10 FT Military Grade Drop Protection, Magnetic Ring Holder Kickstand Protective Phone Case, Ice Green",
@@ -8943,6 +9039,22 @@
    "savings": 68.0,
    "price_diff": 31.56,
    "ts": 1793878123
+  },
+  {
+   "id": "df-B0CWH2JYFX",
+   "store": "dealforager",
+   "title": "Qinmay for Motorola Moto G 2024 Case, 3-Layer Cover, WineRedPink",
+   "price": "4.73",
+   "old_price": "6.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41gqTdBQckL.jpg",
+   "link": "https://www.amazon.com/dp/B0CWH2JYFX?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 5:27 AM",
+   "rating": 217243.0,
+   "savings": 32.0,
+   "price_diff": 2.26,
+   "ts": 1793878045
   },
   {
    "id": "df-B09PH2F4R4",
@@ -9681,6 +9793,22 @@
    "ts": 1793876187
   },
   {
+   "id": "df-B0F48D1CFZ",
+   "store": "dealforager",
+   "title": "FNTCASE for Samsung Galaxy Z-Flip-7 Case Clear Compatible with Magsafe",
+   "price": "4.73",
+   "old_price": "11.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51S26TuRnQL.jpg",
+   "link": "https://www.amazon.com/dp/B0F48D1CFZ?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 4:56 AM",
+   "rating": 255140.0,
+   "savings": 60.0,
+   "price_diff": 7.26,
+   "ts": 1793876170
+  },
+  {
    "id": "df-B07CBV5LV9",
    "store": "dealforager",
    "title": "DuraGo BR900332-02 Rear-Solid Premium Electrophoretic Brake Rotor",
@@ -9951,22 +10079,6 @@
    "savings": 57.0,
    "price_diff": 52.02,
    "ts": 1793875644
-  },
-  {
-   "id": "df-B07GVXD649",
-   "store": "dealforager",
-   "title": "RAMBO: FIRST BLOOD PART II 4K Ultra HD + Blu-ray + Digital",
-   "price": "4.75",
-   "old_price": "13.88",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51yDTCodqOL.jpg",
-   "link": "https://www.amazon.com/dp/B07GVXD649?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 4:47 AM",
-   "rating": 212157.0,
-   "savings": 65.0,
-   "price_diff": 9.13,
-   "ts": 1793875621
   },
   {
    "id": "df-B0CYH3LCFC",
@@ -10257,6 +10369,22 @@
    "ts": 1793874859
   },
   {
+   "id": "df-B0CP25V3BK",
+   "store": "dealforager",
+   "title": "Njjex Galaxy S24 Plus Case, for Samsung Galaxy S24 Plus Wallet Case, [9 Card Slots] PU Leather Card Holder Folio Flip [Detachable] Kickstand Magnetic Phone Cover & Lanyard for Samsung S24+ [Black]",
+   "price": "4.73",
+   "old_price": "13.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51facJiUnNL.jpg",
+   "link": "https://www.amazon.com/dp/B0CP25V3BK?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/5, 4:33 AM",
+   "rating": 310066.0,
+   "savings": 66.0,
+   "price_diff": 9.26,
+   "ts": 1793874832
+  },
+  {
    "id": "df-B0CRX9WLRY",
    "store": "dealforager",
    "title": "Delta Faucet Modern Raincan Round Single-Function Tub and Shower Trim Kit Brushed Nickel, Tub Faucet Set, Rainfall Shower Head, Spotshield Stainless T14469-SP-PP (Valve Not Included)",
@@ -10399,22 +10527,6 @@
    "savings": 77.0,
    "price_diff": 16.22,
    "ts": 1793874536
-  },
-  {
-   "id": "df-B0CBTGQM8X",
-   "store": "dealforager",
-   "title": "Nvollnoe for iPhone 15 Plus Case with Card Holder Black",
-   "price": "4.66",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/512h+T+TA8L._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0CBTGQM8X?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 4:28 AM",
-   "rating": 322857.0,
-   "savings": 53.0,
-   "price_diff": 5.33,
-   "ts": 1793874529
   },
   {
    "id": "df-B00OILS504",
@@ -11489,22 +11601,6 @@
    "ts": 1793872170
   },
   {
-   "id": "df-B0F8K2FLKH",
-   "store": "dealforager",
-   "title": "QUALITY-BUILT Black Series Semi-Met Front Brake Pads w/Hardware BP0915BM",
-   "price": "4.66",
-   "old_price": "43.56",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41kYvLLk-3L.jpg",
-   "link": "https://www.amazon.com/dp/B0F8K2FLKH?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 3:49 AM",
-   "rating": 347960.0,
-   "savings": 89.0,
-   "price_diff": 38.9,
-   "ts": 1793872170
-  },
-  {
    "id": "df-B0F6T3FYP5",
    "store": "dealforager",
    "title": "Colorful Resin Geometric Bangle Bracelet for Women Retro Acrylic Round Circular Wristband Bracelet Chunky Irregular Cuff Bracelet Jewelry Gift A-Pink",
@@ -12289,22 +12385,6 @@
    "ts": 1793870837
   },
   {
-   "id": "df-B0DSHYW6SV",
-   "store": "dealforager",
-   "title": "Basicspace White Tank Tops for Women Ribbed Ruffle Strap Square Neck Trendy Going Out Preppy Sleeveless Tops(X-Large,Pure White",
-   "price": "4.44",
-   "old_price": "9.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41k-647hnsL.jpg",
-   "link": "https://www.amazon.com/dp/B0DSHYW6SV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 3:25 AM",
-   "rating": 327215.0,
-   "savings": 55.0,
-   "price_diff": 5.55,
-   "ts": 1793870732
-  },
-  {
    "id": "df-B0D6QPG7BH",
    "store": "dealforager",
    "title": "BOZZYS Lockout Tagout Kit,Loto Locks for Breaker and Plug Lock Out Tag Out Kits Electrical-OSHA Compliant(BD-ZTI KIT2-26PACK)",
@@ -12641,22 +12721,6 @@
    "ts": 1793869654
   },
   {
-   "id": "df-B0GSRFZT5J",
-   "store": "dealforager",
-   "title": "MOSISO Compatible with MacBook Neo Case 13 inch 2026 A3404 A18 Pro Chip",
-   "price": "4.66",
-   "old_price": "9.49",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/31E3PtnRltL.jpg",
-   "link": "https://www.amazon.com/dp/B0GSRFZT5J?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 3:07 AM",
-   "rating": 355454.0,
-   "savings": 50.0,
-   "price_diff": 4.83,
-   "ts": 1793869634
-  },
-  {
    "id": "df-B0H42P8GP7",
    "store": "dealforager",
    "title": "A Court of Thorns and Roses Series Sticker Set of 5",
@@ -12719,70 +12783,6 @@
    "savings": 37.0,
    "price_diff": 2.64,
    "ts": 1793868726
-  },
-  {
-   "id": "df-B0GLGJSLFL",
-   "store": "dealforager",
-   "title": "for Samsung Galaxy S25 Ultra Case,Fit for Magsafe,Rugged,Shockproof,Blue",
-   "price": "3.11",
-   "old_price": "4.00",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B0GLGJSLFL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 2:43 AM",
-   "rating": 251870.0,
-   "savings": 22.0,
-   "price_diff": 0.89,
-   "ts": 1793868195
-  },
-  {
-   "id": "df-B09JSN4GC5",
-   "store": "dealforager",
-   "title": "USB Outlet Extender Surge Protector with Rotating Plug",
-   "price": "13.84",
-   "old_price": "14.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41pc7xkweCL.jpg",
-   "link": "https://www.amazon.com/dp/B09JSN4GC5?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "electronics",
-   "badge": "",
-   "date": "11/5, 2:33 AM",
-   "rating": 41686955.0,
-   "savings": 7.0,
-   "price_diff": 1.15,
-   "ts": 1793867591
-  },
-  {
-   "id": "df-B0FXKV4NCP",
-   "store": "dealforager",
-   "title": "Heavy-Duty Steel Folding Hand Truck, 180LB Capacity Dolly cart",
-   "price": "48.86",
-   "old_price": "59.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41U-NKhcepL.jpg",
-   "link": "https://www.amazon.com/dp/B0FXKV4NCP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "electronics",
-   "badge": "",
-   "date": "11/5, 2:22 AM",
-   "rating": 41789393.0,
-   "savings": 18.0,
-   "price_diff": 11.13,
-   "ts": 1793866964
-  },
-  {
-   "id": "df-B01MYPJ9J6",
-   "store": "dealforager",
-   "title": "NiceTQ Replacement US 2Prong AC Power Cord Cable For HP OfficeJet Pro 6978 8710 8720 Wireless All-in-One Photo Printer",
-   "price": "3.83",
-   "old_price": "4.79",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B01MYPJ9J6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/5, 2:15 AM",
-   "rating": 284280.0,
-   "savings": 20.0,
-   "price_diff": 0.96,
-   "ts": 1793866537
   },
   {
    "id": "wm-2402041650",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-05T23:38:11Z"
+ "updated": "2026-11-06T00:23:08Z"
 }
