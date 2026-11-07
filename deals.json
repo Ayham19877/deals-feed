@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B0FXKV4NCP",
+   "store": "dealforager",
+   "title": "Heavy-Duty Steel Folding Hand Truck, 180LB Capacity Dolly cart",
+   "price": "48.86",
+   "old_price": "59.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41U-NKhcepL.jpg",
+   "link": "https://www.amazon.com/dp/B0FXKV4NCP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/7, 1:00 AM",
+   "rating": 41789393.0,
+   "savings": 18.0,
+   "price_diff": 11.13,
+   "ts": 1794034802
+  },
+  {
+   "id": "df-B01MYPJ9J6",
+   "store": "dealforager",
+   "title": "NiceTQ Replacement US 2Prong AC Power Cord Cable For HP OfficeJet Pro 6978 8710 8720 Wireless All-in-One Photo Printer",
+   "price": "3.83",
+   "old_price": "4.79",
+   "image": "",
+   "link": "https://www.amazon.com/dp/B01MYPJ9J6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/7, 12:54 AM",
+   "rating": 248519.0,
+   "savings": 20.0,
+   "price_diff": 0.96,
+   "ts": 1794034453
+  },
+  {
    "id": "df-B0CDLWDP8L",
    "store": "dealforager",
    "title": "Fenmzee Pink Bedside Lamp for Bedroom, Dimmable Touch, USB A+C, AC Outlet",
@@ -12687,38 +12719,6 @@
    "savings": 7.0,
    "price_diff": 1.15,
    "ts": 1793979311
-  },
-  {
-   "id": "df-B0FXKV4NCP",
-   "store": "dealforager",
-   "title": "Heavy-Duty Steel Folding Hand Truck, 180LB Capacity Dolly cart",
-   "price": "48.86",
-   "old_price": "59.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41U-NKhcepL.jpg",
-   "link": "https://www.amazon.com/dp/B0FXKV4NCP?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "electronics",
-   "badge": "",
-   "date": "11/6, 9:24 AM",
-   "rating": 41789393.0,
-   "savings": 18.0,
-   "price_diff": 11.13,
-   "ts": 1793978691
-  },
-  {
-   "id": "df-B01MYPJ9J6",
-   "store": "dealforager",
-   "title": "NiceTQ Replacement US 2Prong AC Power Cord Cable For HP OfficeJet Pro 6978 8710 8720 Wireless All-in-One Photo Printer",
-   "price": "3.83",
-   "old_price": "4.79",
-   "image": "",
-   "link": "https://www.amazon.com/dp/B01MYPJ9J6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/6, 9:19 AM",
-   "rating": 258003.0,
-   "savings": 20.0,
-   "price_diff": 0.96,
-   "ts": 1793978342
   },
   {
    "id": "df-B08KHSY54Y",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-07T06:51:05Z"
+ "updated": "2026-11-07T07:08:05Z"
 }
