@@ -1,6 +1,70 @@
 {
  "deals": [
   {
+   "id": "df-B0G1CFWMYF",
+   "store": "dealforager",
+   "title": "OTOFLY Magnetic for iPhone 16 Pro Case,Compatible with Magsafe,Classic Liquid Silicone Mobile Phone Case,Integrated Camera Control Button,Anti-Scratch Microfiber Lining, Charcoal Gray",
+   "price": "4.79",
+   "old_price": "14.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/415SC9EEymL.jpg",
+   "link": "https://www.amazon.com/dp/B0G1CFWMYF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/8, 7:05 AM",
+   "rating": 262543.0,
+   "savings": 68.0,
+   "price_diff": 10.2,
+   "ts": 1794143131
+  },
+  {
+   "id": "df-B09228GJ3G",
+   "store": "dealforager",
+   "title": "SPARIN 2 Pack Screen Protector for Samsung Galaxy Tab A7 Lite 8.7 Inch",
+   "price": "4.75",
+   "old_price": "6.98",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41xKGB1Xf1L.jpg",
+   "link": "https://www.amazon.com/dp/B09228GJ3G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/8, 7:00 AM",
+   "rating": 245228.0,
+   "savings": 31.0,
+   "price_diff": 2.23,
+   "ts": 1794142849
+  },
+  {
+   "id": "df-B0918T6R8B",
+   "store": "dealforager",
+   "title": "Amerock | Cabinet Pull | Brushed Gold/White | 10-1/16 inch (256 mm) Center to Center | Urbanite | 1 Pack | Drawer Pull | Drawer Handle | Cabinet Hardware",
+   "price": "4.11",
+   "old_price": "19.28",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/11FOGYFTnoL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0918T6R8B?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/8, 7:00 AM",
+   "rating": 334499.0,
+   "savings": 78.0,
+   "price_diff": 15.17,
+   "ts": 1794142812
+  },
+  {
+   "id": "df-B07RYZRZP8",
+   "store": "dealforager",
+   "title": "Enbrighten LED Rechargeable Lantern, 11”, USB Power Bank, 4400mAh, 650 Lumens, Dimmable, 405 Hours of Run Time, Ideal for Camping, Outdoor, Emergency Weather, Storms, Black, 43934",
+   "price": "16.92",
+   "old_price": "19.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51d4pNqxinL.jpg",
+   "link": "https://www.amazon.com/dp/B07RYZRZP8?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "toys",
+   "badge": "",
+   "date": "11/8, 6:54 AM",
+   "rating": 41604953.0,
+   "savings": 15.0,
+   "price_diff": 3.07,
+   "ts": 1794142441
+  },
+  {
    "id": "df-B09QQH4F6Q",
    "store": "dealforager",
    "title": "KOMUEE 24 Pieces Glass Food Storage Containers Set, Pink",
@@ -12687,70 +12751,6 @@
    "savings": 19.0,
    "price_diff": 9.02,
    "ts": 1794087537
-  },
-  {
-   "id": "df-B0G1CFWMYF",
-   "store": "dealforager",
-   "title": "OTOFLY Magnetic for iPhone 16 Pro Case,Compatible with Magsafe,Classic Liquid Silicone Mobile Phone Case,Integrated Camera Control Button,Anti-Scratch Microfiber Lining, Charcoal Gray",
-   "price": "4.79",
-   "old_price": "14.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/415SC9EEymL.jpg",
-   "link": "https://www.amazon.com/dp/B0G1CFWMYF?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/7, 3:34 PM",
-   "rating": 262543.0,
-   "savings": 68.0,
-   "price_diff": 10.2,
-   "ts": 1794087282
-  },
-  {
-   "id": "df-B09228GJ3G",
-   "store": "dealforager",
-   "title": "SPARIN 2 Pack Screen Protector for Samsung Galaxy Tab A7 Lite 8.7 Inch",
-   "price": "4.75",
-   "old_price": "6.98",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41xKGB1Xf1L.jpg",
-   "link": "https://www.amazon.com/dp/B09228GJ3G?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/7, 3:29 PM",
-   "rating": 245228.0,
-   "savings": 31.0,
-   "price_diff": 2.23,
-   "ts": 1794086995
-  },
-  {
-   "id": "df-B0918T6R8B",
-   "store": "dealforager",
-   "title": "Amerock | Cabinet Pull | Brushed Gold/White | 10-1/16 inch (256 mm) Center to Center | Urbanite | 1 Pack | Drawer Pull | Drawer Handle | Cabinet Hardware",
-   "price": "4.11",
-   "old_price": "19.28",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/11FOGYFTnoL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0918T6R8B?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/7, 3:29 PM",
-   "rating": 334499.0,
-   "savings": 78.0,
-   "price_diff": 15.17,
-   "ts": 1794086961
-  },
-  {
-   "id": "df-B07RYZRZP8",
-   "store": "dealforager",
-   "title": "Enbrighten LED Rechargeable Lantern, 11”, USB Power Bank, 4400mAh, 650 Lumens, Dimmable, 405 Hours of Run Time, Ideal for Camping, Outdoor, Emergency Weather, Storms, Black, 43934",
-   "price": "16.92",
-   "old_price": "19.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51d4pNqxinL.jpg",
-   "link": "https://www.amazon.com/dp/B07RYZRZP8?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "toys",
-   "badge": "",
-   "date": "11/7, 3:23 PM",
-   "rating": 41604953.0,
-   "savings": 15.0,
-   "price_diff": 3.07,
-   "ts": 1794086586
   },
   {
    "id": "df-B0DT3T118F",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-08T12:42:21Z"
+ "updated": "2026-11-08T13:08:04Z"
 }
