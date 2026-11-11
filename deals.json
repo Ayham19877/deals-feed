@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B097H1QM25",
+   "store": "dealforager",
+   "title": "MOERDENG Women's Waterproof Warm Ski Coat Windproof Outdoor Winter Jacket",
+   "price": "32.29",
+   "old_price": "39.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41dkxylTX6L.jpg",
+   "link": "https://www.amazon.com/dp/B097H1QM25?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "fashion",
+   "badge": "",
+   "date": "11/11, 12:34 PM",
+   "rating": 41767317.0,
+   "savings": 19.0,
+   "price_diff": 7.7,
+   "ts": 1794422087
+  },
+  {
+   "id": "df-B01I0FQHMG",
+   "store": "dealforager",
+   "title": "ENERLITES 2-Gang White Decorator Light Switch Outlet Wall Plate Cover",
+   "price": "3.99",
+   "old_price": "4.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21Z74y7dEdL.jpg",
+   "link": "https://www.amazon.com/dp/B01I0FQHMG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/11, 12:24 PM",
+   "rating": 245799.0,
+   "savings": 20.0,
+   "price_diff": 1.0,
+   "ts": 1794421482
+  },
+  {
    "id": "df-B07PNR2VMD",
    "store": "dealforager",
    "title": "NETGEAR Nighthawk WiFi 6 Router (RAX200) 12-Stream Gigabit Router AX11000 Tri-Band Wireless Speed (Up to 10.8 Gbps) Coverage Up to 2500 sq.ft. and 50 Devices",
@@ -10017,6 +10049,22 @@
    "ts": 1794377267
   },
   {
+   "id": "df-B0DYNT93FV",
+   "store": "dealforager",
+   "title": "Edvivi Pendant Light with Nordic Style Cone Paper Shade, 1-Light 16.5 in. Dia Natural Brown Cardboard Chandelier, Adjustable Hanging Light Fixture for Dining Table, No Bulbs Included",
+   "price": "18.25",
+   "old_price": "95.90",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31piYV8ZN9L.jpg",
+   "link": "https://www.amazon.com/dp/B0DYNT93FV?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/11, 12:07 AM",
+   "rating": 442414.0,
+   "savings": 80.0,
+   "price_diff": 77.65,
+   "ts": 1794377243
+  },
+  {
    "id": "df-B0DR28BD2D",
    "store": "dealforager",
    "title": "Rosslyons Big Oval Gemotric Pendant Necklace for women Double Strand Colorful Beads Statement Necklace and Earrings Set Fashion Jewelry Gifts (Turquoise Blue)",
@@ -12735,54 +12783,6 @@
    "savings": 19.0,
    "price_diff": 11.97,
    "ts": 1794367506
-  },
-  {
-   "id": "df-B097H1QM25",
-   "store": "dealforager",
-   "title": "MOERDENG Women's Waterproof Warm Ski Coat Windproof Outdoor Winter Jacket",
-   "price": "32.29",
-   "old_price": "39.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41dkxylTX6L.jpg",
-   "link": "https://www.amazon.com/dp/B097H1QM25?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "fashion",
-   "badge": "",
-   "date": "11/10, 9:15 PM",
-   "rating": 41767317.0,
-   "savings": 19.0,
-   "price_diff": 7.7,
-   "ts": 1794366923
-  },
-  {
-   "id": "df-B0DXD26PGC",
-   "store": "dealforager",
-   "title": "Xiaowoniu Solar Camping Lantern with 7200mAh Battery, 10000 Lumens Portable Flood Light, Multiple Modes & IP65 Waterproof for Emergencies, Hiking, Outdoors (Regular Style)",
-   "price": "13.97",
-   "old_price": "27.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41xeRzwhVIL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B0DXD26PGC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "toys",
-   "badge": "",
-   "date": "11/10, 9:13 PM",
-   "rating": 41858272.0,
-   "savings": 50.0,
-   "price_diff": 14.02,
-   "ts": 1794366797
-  },
-  {
-   "id": "df-B01I0FQHMG",
-   "store": "dealforager",
-   "title": "ENERLITES 2-Gang White Decorator Light Switch Outlet Wall Plate Cover",
-   "price": "3.99",
-   "old_price": "4.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/21Z74y7dEdL.jpg",
-   "link": "https://www.amazon.com/dp/B01I0FQHMG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/10, 9:05 PM",
-   "rating": 245799.0,
-   "savings": 20.0,
-   "price_diff": 1.0,
-   "ts": 1794366319
   },
   {
    "id": "df-B0CBNMHHYY",
@@ -27617,5 +27617,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-11T18:23:10Z"
+ "updated": "2026-11-11T18:42:45Z"
 }
