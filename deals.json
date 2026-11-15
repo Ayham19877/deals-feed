@@ -1,6 +1,22 @@
 {
  "deals": [
   {
+   "id": "df-B01HDJFJKG",
+   "store": "dealforager",
+   "title": "Farming Simulator 17 - Xbox One",
+   "price": "4.37",
+   "old_price": "23.90",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51Qj-GHCrML._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B01HDJFJKG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "under5",
+   "badge": "",
+   "date": "11/15, 7:07 AM",
+   "rating": 305885.0,
+   "savings": 81.0,
+   "price_diff": 19.53,
+   "ts": 1794748036
+  },
+  {
    "id": "df-B0GQ922VR9",
    "store": "dealforager",
    "title": "Umbrauto 78.7\" SUV Air Mattress Fits Mid & Full Size SUVs (Not for Compact SUVs), Inflatable Car Bed for Back Seat with Rear Seats Folded| Extended Airbed for Minivans Cargo Area Camping",
@@ -4401,38 +4417,6 @@
    "ts": 1794742959
   },
   {
-   "id": "df-B001CCJLDC",
-   "store": "dealforager",
-   "title": "Amerelle 4025D Carson Wallplate, 1 Duplex, Wood, Light Oak, 1-Pack",
-   "price": "7.83",
-   "old_price": "20.00",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41+TS6hvpxL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B001CCJLDC?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under10",
-   "badge": "",
-   "date": "11/15, 5:42 AM",
-   "rating": 408798.0,
-   "savings": 60.0,
-   "price_diff": 12.17,
-   "ts": 1794742957
-  },
-  {
-   "id": "df-B01HDJFJKG",
-   "store": "dealforager",
-   "title": "Farming Simulator 17 - Xbox One",
-   "price": "4.37",
-   "old_price": "23.90",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/51Qj-GHCrML._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B01HDJFJKG?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "under5",
-   "badge": "",
-   "date": "11/15, 5:42 AM",
-   "rating": 380885.0,
-   "savings": 81.0,
-   "price_diff": 19.53,
-   "ts": 1794742929
-  },
-  {
    "id": "df-B0FSXLXZ89",
    "store": "dealforager",
    "title": "Personal Alarm for Women Keychain Alarm: Qoosea 135dB Emergency Keychain Siren with Strobe Light Loud Siren for Women Kids Students Seniors Emergency Self-Defense for Night Sports",
@@ -6383,6 +6367,22 @@
    "savings": 87.0,
    "price_diff": 18.68,
    "ts": 1794733664
+  },
+  {
+   "id": "df-B0BQRCD834",
+   "store": "dealforager",
+   "title": "Seasonic Vertex GX-1000-1000W - 80+ Gold - ATX 3.0 & PCIe 5.0 Ready - Fully Modular - Premium Japanese Capacitors - 12 Year Warranty - Nvidia RTX 40/50 & AMD GPU Compatible",
+   "price": "160.85",
+   "old_price": "345.84",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41YlZdQtUZL.jpg",
+   "link": "https://www.amazon.com/dp/B0BQRCD834?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "electronics",
+   "badge": "",
+   "date": "11/15, 3:04 AM",
+   "rating": 403867.0,
+   "savings": 53.0,
+   "price_diff": 184.99,
+   "ts": 1794733486
   },
   {
    "id": "df-B0GYRJKHP6",
@@ -27601,5 +27601,5 @@
    "ts": 1791261442
   }
  ],
- "updated": "2026-11-15T13:07:17Z"
+ "updated": "2026-11-15T13:08:06Z"
 }
