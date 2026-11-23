@@ -1,6 +1,38 @@
 {
  "deals": [
   {
+   "id": "df-B01B88WGO0",
+   "store": "dealforager",
+   "title": "DEZ FURNISHINGS Cordless 2\" Faux Wood Blind, 51.5\" W x 48\" H, Dark Oak",
+   "price": "21.55",
+   "old_price": "63.44",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/41oxvo1RP-L._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B01B88WGO0?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/23, 7:52 AM",
+   "rating": 406861.0,
+   "savings": 66.0,
+   "price_diff": 41.89,
+   "ts": 1795441965
+  },
+  {
+   "id": "df-B0DWCJT6BL",
+   "store": "dealforager",
+   "title": "FSE 18-GSB3 Silver Series Glass Rack Storage Cabinet with 2 Levels of Storage (Midshelf Included), 24\"W x 22.5\"D, Fits (2) 20\" x 20\" Glass Racks (not Included), Embossed drainboard top",
+   "price": "562.63",
+   "old_price": "905.60",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/21r7uIJLbcL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0DWCJT6BL?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/23, 7:52 AM",
+   "rating": 403946.0,
+   "savings": 37.0,
+   "price_diff": 342.97,
+   "ts": 1795441950
+  },
+  {
    "id": "wm-15936364385",
    "title": "Solar Lights Outdoor, Solar Powered Outdoor Lights, Solar Street Lights, Pole Barn, Commercial Parking Lot Lights",
    "price": "24.49",
@@ -30049,22 +30081,6 @@
    "ts": 1795436731
   },
   {
-   "id": "df-B06X6HRBMY",
-   "store": "dealforager",
-   "title": "Bright House Solid Color Area Rugs Teal - 2' x 12' Runner, Indoor, Stain & Fade Resistant, Perfect for Living Room, Bedroom, Dining Room, Entryway, Pet & Kids Friendly Rug, Wedding, Made in USA",
-   "price": "98.22",
-   "old_price": "257.99",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41kqtudqJeL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B06X6HRBMY?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/23, 6:25 AM",
-   "rating": 410602.0,
-   "savings": 61.0,
-   "price_diff": 159.77,
-   "ts": 1795436720
-  },
-  {
    "id": "df-B0FFBCMM5M",
    "store": "dealforager",
    "title": "1270560 Mower Spindle Fits Toro Z Master Professional 7500-D 7000 6000 5000",
@@ -30863,6 +30879,22 @@
    "savings": 76.0,
    "price_diff": 15.31,
    "ts": 1795432479
+  },
+  {
+   "id": "df-B0GGZKD434",
+   "store": "dealforager",
+   "title": "Graduation Decorations 2026 - 5.2FT Long Extra Large Marquee letters Light Up Numbers \"2026\" Sign, Graduation Party Decor for Kindergarten High School College Celebration, Class of 2026 Centerpiece Backdrop - Black",
+   "price": "27.96",
+   "old_price": "199.99",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/51viwInR3nL._SL500_.jpg",
+   "link": "https://www.amazon.com/dp/B0GGZKD434?tag=dealforager-20&linkCode=osi&th=1&psc=1",
+   "category": "home",
+   "badge": "",
+   "date": "11/23, 5:13 AM",
+   "rating": 429865.0,
+   "savings": 86.0,
+   "price_diff": 172.03,
+   "ts": 1795432406
   },
   {
    "id": "df-B0DNMKVVTR",
@@ -31967,39 +31999,7 @@
    "savings": 25.0,
    "price_diff": 0.96,
    "ts": 1795421525
-  },
-  {
-   "id": "df-B09B6GSQM6",
-   "store": "dealforager",
-   "title": "Laguiole En Aubrac Sommelier Waiter's Corkscrew, Stabilized Purple Poplar Burl Handle, Wine Opener With Foil Cutter & Bottle Opener, Brushed Bolster",
-   "price": "97.91",
-   "old_price": "239.95",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/4100m0CDbML._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B09B6GSQM6?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/23, 2:06 AM",
-   "rating": 406974.0,
-   "savings": 59.0,
-   "price_diff": 142.04,
-   "ts": 1795421211
-  },
-  {
-   "id": "df-B00WQKU55W",
-   "store": "dealforager",
-   "title": "Purdy 144608183 Golden Eagle with 1/2\" Nap Roller Cover (Case of 6), 18\"",
-   "price": "113.71",
-   "old_price": "199.87",
-   "image": "https://images-na.ssl-images-amazon.com/images/I/41HwPa8fnUL._SL500_.jpg",
-   "link": "https://www.amazon.com/dp/B00WQKU55W?tag=dealforager-20&linkCode=osi&th=1&psc=1",
-   "category": "home",
-   "badge": "",
-   "date": "11/23, 2:02 AM",
-   "rating": 404408.0,
-   "savings": 43.0,
-   "price_diff": 86.16,
-   "ts": 1795420950
   }
  ],
- "updated": "2026-11-23T13:50:56Z"
+ "updated": "2026-11-23T13:53:07Z"
 }
